@@ -1,0 +1,26 @@
+title: Dr. carolin Müller
+description: Physical and Theoretical Chemistry
+show_downloads: false
+
+baseurl: ""
+url: "https://carolin-m.github.io" # change this to the base hostname & protocol for your site
+
+
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: Carolin Müller
+#image: /thumbnail-jumbo.png
+
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['about', 'contact']
