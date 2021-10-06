@@ -15,12 +15,14 @@ theme: # leave it empty
 
 # social
 author: Carolin Müller
-#image: /thumbnail-jumbo.png
+image: /images/caro.png
 
+researchgate:
+  username: Carolin-Mueller-6
 plugins:
   - jekyll-target-blank
 
 target-blank:
     rel: nofollow
 
-header_page_refs: ['about', 'contact']
+header_page_refs: ['now','about', 'contact']
