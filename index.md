@@ -2,6 +2,6 @@
 layout: home
 ---
 
-<img style="float: right;" width="300" src="images/caro.png">
+<img width="200" src="images/caro.png"> </br>
 
-Some introduction about me
+I am a chemists passionate about unraveling the mysteries behind the behaviour of photoexcited molecules using high-end spectroscopic and computational methods.
