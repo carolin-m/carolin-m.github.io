@@ -23,7 +23,6 @@ Leibniz Institute of Photonic Technology (IPHT) <br>
 Albert-Einstein-Straße 9 <br>
 07745 Jena, Germany <br>
 
-### 
 __________
 
 [Back]({{ '/' | absolute_url }})
