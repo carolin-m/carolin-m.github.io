@@ -6,7 +6,7 @@ ref: contact
 order: 1
 ---
 
-### Contact <hr />
+### Contact <hr style="border:2px solid gray"> </hr>
 **Dr. Carolin Müller** <br>
 Friedrich Schiller University Jena <br>
 Institute of Physical Chemistry <br>
