@@ -14,9 +14,9 @@ order: 2
 _______
 
 > ## Past research
-> Doctoral student in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek), supervisor: **Prof. Benjamin Dietzek-Ivanšić**, topic: 
-> Graduate student (M. Sc.) in the group of [**Prof. Tia E. Keyes**](), supervisor: Prof. Tia E. Keyes, topic:
-> Graduate student (B. Sc.) in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek), supervisor: Dr. Martin Schulz, topic: 
+> * Doctoral student in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek), supervisor: **Prof. Benjamin Dietzek-Ivanšić**, topic: 
+> * Graduate student (M. Sc.) in the group of [**Prof. Tia E. Keyes**](), supervisor: Prof. Tia E. Keyes, topic:
+> * Undergraduate student (B. Sc.) in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek), supervisor: Dr. Martin Schulz, topic: 
 
 _______
 
