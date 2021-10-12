@@ -6,7 +6,7 @@ ref: contact
 order: 1
 ---
 
-### Contact br>
+### Contact <br>
 _____
 **Dr. Carolin Müller** <br>
 Friedrich Schiller University Jena <br>
@@ -22,6 +22,8 @@ ___________
 Leibniz Institute of Photonic Technology (IPHT) <br>
 Albert-Einstein-Straße 9 <br>
 07745 Jena, Germany <br>
-_____
+
+### 
+__________
 
 [Back]({{ '/' | absolute_url }})
