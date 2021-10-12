@@ -24,8 +24,8 @@ _______
 
 _______
 
-| 10/2018 $-$ 06/2021  | Doctoral student in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) |
-| You Can Also   | Put Pipes In | Like this \| |
+| 10/2018 to 06/2021  | Doctoral student in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) |
+| You Can Also   | Put Pipes In | Like this \|
 
 _________
 
