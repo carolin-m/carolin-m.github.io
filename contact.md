@@ -7,11 +7,11 @@ order: 1
 ---
 
 ### Contact <hr/>
-**Dr. Carolin Müller**
-Friedrich Schiller University Jena
-Institute of Physical Chemistry 
-Helmholtzweg 4 
-07743 Jena, Germany
+**Dr. Carolin Müller** <br>
+Friedrich Schiller University Jena <br>
+Institute of Physical Chemistry <br>
+Helmholtzweg 4 <br>
+07743 Jena, Germany <br>
 
 **E-Mail:** [carolin.mueller@uni-jena.de](mailto:carolin.mueller@uni-jena.de)
 **Tel.:** +49 3641-206125
