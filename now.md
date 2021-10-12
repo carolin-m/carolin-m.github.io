@@ -30,4 +30,4 @@ _______
 
 _________
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+[Back]({{ '/' | absolute_url }})
