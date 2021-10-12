@@ -16,7 +16,8 @@ Helmholtzweg 4 <br>
 **E-Mail:** [carolin.mueller@uni-jena.de](mailto:carolin.mueller@uni-jena.de) <br>
 **Tel.:** +49 3641-206125 <br>
 
-### Other Affiliation ___________
+### Other Affiliation <br>
+___________
 Leibniz Institute of Photonic Technology (IPHT) <br>
 Albert-Einstein-Straße 9 <br>
 07745 Jena <br>
