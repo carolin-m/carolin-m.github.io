@@ -19,7 +19,7 @@ _______
 >     * topic: Towards *operando* spectroscopy of supramolecular photocatalysts – A case study on Ru-dppz-derived 
 >     * funding: Kekulé Fellowship of the VCI (*Verband der Chemischen Industrie*)
 >      
-> * Graduate student (M. Sc.) in the group of [**Prof. Tia E. Keyes**](), supervisor: Prof. Tia E. Keyes, topic:
+> * Graduate student (M. Sc.) in the group of [**Prof. Tia E. Keyes**](https://sites.google.com/dcu.ie/keyes-research-group/home), supervisor: Prof. Tia E. Keyes, topic:
 > * Undergraduate student (B. Sc.) in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek), supervisor: Dr. Martin Schulz, topic: 
 
 _______
