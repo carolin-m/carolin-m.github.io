@@ -6,6 +6,16 @@ ref: contact
 order: 1
 ---
 
-Contact details
+**E-Mail:** [carolin.mueller@uni-jena.de](mailto:carolin.mueller@uni-jena.de)
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+> # Affiliation(s)
+> **Friedrich Schiller University Jena**
+> Institute of Physical Chemistry
+> Helmholtzweg 4
+> 07743 Jena
+> 
+> **Leibniz Institute of Photonic Technology (IPHT)**
+> Albert-Einstein-Straße 9
+> 07745 Jena
+
+[Back]({{ '/' | absolute_url }})
