@@ -40,7 +40,7 @@ order: 1
 > *Structure of Diethyl-Phosphonic Acid Anchoring Group Affects the Charge-Separated State on an Iridium(III) Complex Functionalized NiO Surface* <br>
 > [ChemPhotoChem **2020**, *4*, 8, 618–629](https://onlinelibrary.wiley.com/doi/abs/10.1002/cptc.202000038)
 
-> D. O’Connor*, C. Müller*, N. K. Sarangi, A. Byrne, T. E. Keyes <br>
+> D. O’Connor, **C. Müller**, N. K. Sarangi, A. Byrne, T. E. Keyes <br>
 > *Dimethylaniline functionalised pyrene fluorophores; dual colour pH switching in solution and self-assembled monolayers* <br>
 > [PCCP **2019**, *21*, 40, 22440–22448](http://xlink.rsc.org/?DOI=C9CP04948G)
 
@@ -49,11 +49,11 @@ M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeifer, M. G. Pullen, J. Ullrich, B.
 > *Imaging the Renner–Teller effect using laser-induced electron diffraction* <vr>
 > [PNAS **2019**, *116*, 17, 8173–8177](http://www.pnas.org/lookup/doi/10.1073/pnas.1817465116)
 
-> M. Schulz, C. Reichardt, C. Müller, K. R. A. Schneider, J. Holste, B. Dietzek <br>
+> M. Schulz, C. Reichardt, **C. Müller**, K. R. A. Schneider, J. Holste, B. Dietzek <br>
 > *Excited State Properties of Heteroleptic Cu(I) 4H-Imidazolate Complexes* <br>
 > [Inorg. Chem. **2017**, *56*, 21, 12978–12986](https://pubs.acs.org/doi/10.1021/acs.inorgchem.7b01680)
 
-> H. Abul-Futouh, Y. Zagranyarski, C. Müller, M. Schulz, S. Kupfer, H. Görls, M. El-khateeb, S. Gräfe, B. Dietzek, K. Peneva, W. Weigand <br>
+> H. Abul-Futouh, Y. Zagranyarski, **C. Müller**, M. Schulz, S. Kupfer, H. Görls, M. El-khateeb, S. Gräfe, B. Dietzek, K. Peneva, W. Weigand <br>
 > *[FeFe]-Hydrogenase H-cluster mimics mediated by naphthalene monoimide derivatives of perisubstituted dichalcogenides* <br>
 > [Dalt. Trans. **2017**, *46*, 34, 11180–11191](http://xlink.rsc.org/?DOI=C7DT02079A)
 
