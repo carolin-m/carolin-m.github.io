@@ -57,6 +57,6 @@ M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeifer, M. G. Pullen, J. Ullrich, B.
 > *[FeFe]-Hydrogenase H-cluster mimics mediated by naphthalene monoimide derivatives of perisubstituted dichalcogenides* <br>
 > [Dalt. Trans. **2017**, *46*, 34, 11180–11191](http://xlink.rsc.org/?DOI=C7DT02079A)
 
-[**For a list of publications see**](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ)
+**For a list of publications see [**my Google Scholar profile**](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ)
 
 _____
