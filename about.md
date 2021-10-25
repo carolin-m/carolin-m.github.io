@@ -10,7 +10,7 @@ order: 0
 ## Short CV <br>
 ______________
 
-| since 03/2021 | **Postdoctoral researcher** in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) |
+...
 
 ## Education <br>
 ________________
