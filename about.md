@@ -7,7 +7,7 @@ ref: about
 order: 0
 ---
 
-> ## Education <br>
+## Education <br>
 
 | since 06/2021 | Postdoctoral researcher in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) |
 | 10/2018-06/2021  | Doctoral student in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek), <br />  **title:** Towards Operando Spectroscopy of Supramolecular Photocatalysts – A Case Study on Ru-dppz-derived Systems |
