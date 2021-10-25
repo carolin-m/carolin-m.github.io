@@ -13,10 +13,15 @@ order: 2
 
 </p>
   
-## History <br>
+## Short *Curriculum Vitae* <br>
 ________________
 
-| since 06/2021 | **Postdoctoral researcher** in the working group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.leibniz-ipht.de/en/departments/functional-interfaces/work-groups/photophysics-and-photochemistry-of-functional-interfaces/) |
+| since 06/2021 | **Postdoc**, Friedrich Schiller University Jena, Germany |
+| 10/2018-06/2021 | **Doctorate** (*summa cum laude*), Friedrich Schiller University Jena, Germany |
+| 10/2016-09/2018 | **M. Sc. in Chemistry** (1.1), Friedrich Schiller University Jena, Germany |
+| 10/2013-09/2016 | **B. Sc. in Chemistry** (1.3), Friedrich Schiller University Jena, Germany |
+
+For further details see my full [CV]({{ /aboutme.html }})
 
 _________
 
