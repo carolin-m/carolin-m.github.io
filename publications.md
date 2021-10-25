@@ -44,9 +44,10 @@ order: 1
 > *Dimethylaniline functionalised pyrene fluorophores; dual colour pH switching in solution and self-assembled monolayers* <br>
 > [PCCP **2019**, *21*, 40, 22440–22448](http://xlink.rsc.org/?DOI=C9CP04948G)
 
-> K. Amini, M. Sclafani, T. Steinle, A.-T. Le, A. Sanchez, C. Müller, et al. <br>
-> *Imaging the Renner–Teller effect using laser-induced electron diffraction*
-> [PNAS **2019*, *116*, 17, 8173–8177](http://www.pnas.org/lookup/doi/10.1073/pnas.1817465116)
+> K. Amini, M. Sclafani, T. Steinle, A. Le, A. Sanchez, **C. Müller**, J. Steinmetzer, L. Yue, J. R. Martínez Saavedra, 
+M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeifer, M. G. Pullen, J. Ullrich, B. Wolter, R. Moszynski, F. J. García de Abajo, C. D. Lin, S. Gräfe, J. Biegert <br>
+> *Imaging the Renner–Teller effect using laser-induced electron diffraction* <vr>
+> [PNAS **2019**, *116*, 17, 8173–8177](http://www.pnas.org/lookup/doi/10.1073/pnas.1817465116)
 
 > M. Schulz, C. Reichardt, C. Müller, K. R. A. Schneider, J. Holste, B. Dietzek <br>
 > *Excited State Properties of Heteroleptic Cu(I) 4H-Imidazolate Complexes* <br>
