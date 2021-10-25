@@ -14,4 +14,4 @@ ________________
 
 _________
 
-[Home]({{ '/' | absolute_url }})
+[Back]({{ '/' | absolute_url }})
