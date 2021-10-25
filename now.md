@@ -13,7 +13,7 @@ order: 2
 > 
 > I investigate intramolecular, hydrogen evolving mono- and bimetallic photocatalyst by means of steady-state and time-resolved spectroscopy. ...test
 >
-> Photocatalysis ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Spectroelectrochemistry <pre xml:lang="latex">\bullet</pre> *Operando* Spectroscopy
+> Photocatalysis ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Time-resolved Spectroscopy ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Spectroelectrochemistry ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) *Operando* Spectroscopy ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Kinetic Modelling of data (KiMoPack)
   
 ## Short *Curriculum Vitae* <br>
 ________________
