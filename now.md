@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Current Research
-tagline: 
+title: Now
+tagline: Current Research
 permalink: /now.html
 ref: now
 order: 2
