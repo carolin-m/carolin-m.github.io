@@ -7,10 +7,22 @@ order: 1
 ---
 
 ### Publications <br>
-_____
+
+> E. Giannoudis, S. Bold, **C. Müller**, A. Schwab, J. Bruhnke, N. Queyriaux, C. Gablin, L. Didier, C. Saint-Pierre, D. Gasparutto, D. Aldakov, S. Kupfer, V. Artero, B. Dietzek, M. Chavarot-Kerlidou <br>
+> *Hydrogen Production at a NiO Photocathode Based on a Ruthenium Dye–Cobalt Diimine Dioxime Catalyst Assembly: Insights from Advanced Spectroscopy and Post-operando Characterization* <br>
+> [ACS Appl. Mater. Interfaces **2021**](https://pubs.acs.org/doi/10.1021/acsami.1c12138)
+
 > **C. Müller**, D. Isakov, S. Rau, B. Dietzek <br>
 > *Influence of the Protonation State on the Excited-State Dynamics of Ruthenium(II) Complexes with Imidazole π-Extended Dipyridophenazine Ligands* <br>
 > [J. Phys. Chem. A **2021**, *125*, 27, 5911-5921](https://pubs.acs.org/doi/10.1021/acs.jpca.1c03856)
+
+> **C. Müller**, D. Isakov, S. Rau, B. Dietzek <br>
+> *Influence of the Protonation State on the Excited-State Dynamics of Ruthenium(II) Complexes with Imidazole π-Extended Dipyridophenazine Ligands* <br>
+> [J. Phys. Chem. A **2021**, *125*, 27, 5911-5921](https://pubs.acs.org/doi/10.1021/acs.jpca.1c03856)
+
+> J. Hniopek, **C. Müller**, T. Bocklitz, M. Schmitt, B. Dietzek, J. Popp <br>
+> *Kinetic-Model-Free Analysis of Transient Absorption Spectra Enabled by 2D Correlation Analysis* <br>
+> [J. Phys. Chem. Lett. **2021**, *12*, 17, 4148-4153](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c00835)
 
 > M. Kaufmann, **C. Müller**, A. A. Cullen, M. P. Brandon, B. Dietzek, M. T. Pryce <br>
 > *Photophysics of Ruthenium(II) Complexes with Thiazole π-Extended Dipyridophenazine Ligands* <br>
@@ -31,3 +43,17 @@ _____
 > D. O’Connor*, C. Müller*, N. K. Sarangi, A. Byrne, T. E. Keyes <br>
 > *Dimethylaniline functionalised pyrene fluorophores; dual colour pH switching in solution and self-assembled monolayers* <br>
 > [PCCP **2019**, *21*, 40, 22440–22448](http://xlink.rsc.org/?DOI=C9CP04948G)
+
+> K. Amini, M. Sclafani, T. Steinle, A.-T. Le, A. Sanchez, C. Müller, et al. <br>
+> *Imaging the Renner–Teller effect using laser-induced electron diffraction*
+> [PNAS **2019*, *116*, 17, 8173–8177](http://www.pnas.org/lookup/doi/10.1073/pnas.1817465116)
+
+> M. Schulz, C. Reichardt, C. Müller, K. R. A. Schneider, J. Holste, B. Dietzek <br>
+> *Excited State Properties of Heteroleptic Cu(I) 4H-Imidazolate Complexes* <br>
+> [Inorg. Chem. **2017**, *56*, 21, 12978–12986](https://pubs.acs.org/doi/10.1021/acs.inorgchem.7b01680)
+
+> H. Abul-Futouh, Y. Zagranyarski, C. Müller, M. Schulz, S. Kupfer, H. Görls, et al. <br>
+> *[FeFe]-Hydrogenase H-cluster mimics mediated by naphthalene monoimide derivatives of perisubstituted dichalcogenides* <br>
+> [Dalt. Trans. **2017**, *46*, 34, 11180–11191](http://xlink.rsc.org/?DOI=C7DT02079A)
+
+_____
