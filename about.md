@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tagline: {*Curriculum Vitae*}
+tagline: Curriculum Vitae
 permalink: /about.html
 ref: about
 order: 0
@@ -31,5 +31,7 @@ ________________
 
 | 2020 | Workgroup of Prof. A. Yartsev, Lund University, ultrafast transient absorption spectroscopy in flow cells to study the reaction dynamics of photoexcited Ru(II) complexes with triethylamine (2 weeks) |
 | 2018 | Workgroup of of [**Prof. Tia E. Keyes**](https://sites.google.com/dcu.ie/keyes-research-group/home), Dublin City University, experiments of the master thesis (6 months) |
+
+___________
 
 [Home]({{ '/' | absolute_url }})
