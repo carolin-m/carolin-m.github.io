@@ -20,7 +20,7 @@ ________________
 | 10/2016-09/2018 | **M. Sc. in Chemistry** (1.1), Friedrich Schiller University Jena, Germany |
 | 10/2013-09/2016 | **B. Sc. in Chemistry** (1.3), Friedrich Schiller University Jena, Germany |
 
-For further details see [my **CV**]({{ '/aboutme.html' | absolute_url }}).
+For further details see [my **CV**]({{ '/about.html' | absolute_url }}).
 
 _________
 
