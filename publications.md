@@ -53,7 +53,7 @@ M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeifer, M. G. Pullen, J. Ullrich, B.
 > *Excited State Properties of Heteroleptic Cu(I) 4H-Imidazolate Complexes* <br>
 > [Inorg. Chem. **2017**, *56*, 21, 12978–12986](https://pubs.acs.org/doi/10.1021/acs.inorgchem.7b01680)
 
-> H. Abul-Futouh, Y. Zagranyarski, C. Müller, M. Schulz, S. Kupfer, H. Görls, et al. <br>
+> H. Abul-Futouh, Y. Zagranyarski, C. Müller, M. Schulz, S. Kupfer, H. Görls, M. El-khateeb, S. Gräfe, B. Dietzek, K. Peneva, W. Weigand <br>
 > *[FeFe]-Hydrogenase H-cluster mimics mediated by naphthalene monoimide derivatives of perisubstituted dichalcogenides* <br>
 > [Dalt. Trans. **2017**, *46*, 34, 11180–11191](http://xlink.rsc.org/?DOI=C7DT02079A)
 
