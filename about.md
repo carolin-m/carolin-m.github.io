@@ -13,7 +13,7 @@ ________________
 | since 06/2021 | Postdoctoral researcher in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) |
 | 10/2018-06/2021  | Doctoral student in the group of [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek), <br />  Thesis: Towards Operando Spectroscopy of Supramolecular Photocatalysts – A Case Study on Ru-dppz-derived Systems |
 | 03/2018-10/2018 | **B. Sc. in Chemistry** (final grad: 1.3), Friedrich Schiller University Jena <br /> Thesis: *Photoactive Proton Pumping at a Microcavity Supported Lipid Bilayer* <br /> supervisors: [**Prof. Tia E. Keyes**](https://sites.google.com/dcu.ie/keyes-research-group/home) and  [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) |
-| 02/2016-08/2016 | **B. Sc. in Chemistry** (final grad: 1.3), Friedrich Schiller University Jena <br /> Thesis: *Spectroscopic Investigations of Electronic States of Copper(I)–*4H*-Imidazolate Coordination Compounds* <br /> supervisors: **Dr. Martin Schulz** and [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) |
+| 02/2016-08/2016 | **B. Sc. in Chemistry** (final grad: 1.3), Friedrich Schiller University Jena <br /> --- <br /> Thesis: *Spectroscopic Investigations of Electronic States of Copper(I)–*4H*-Imidazolate Coordination Compounds* <br /> supervisors: **Dr. Martin Schulz** and [**Prof. Benjamin Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) |
 
 ## Fellowships <br>
 ________________
