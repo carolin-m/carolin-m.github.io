@@ -18,8 +18,8 @@ ________________
 ## Fellowships <br>
 ________________
 
-| 2019-2021 | FCI Kekulé PhD fellowship (*Fond der Chemischen Industrie*) |
-| 2018 | PROMOS DAAD scholarship (research stay at the Dublin City University) |
+| 05/2019-02/2021 | FCI Kekulé PhD fellowship (*Fond der Chemischen Industrie*) |
+| 02/2018-09/2018 | PROMOS DAAD scholarship (research stay at the Dublin City University) |
 | 2017-2018 | *Deutschlandstipendium* (Friedrich Schiller University Jena) |
 
 ## Research Stays Abroad <br>
