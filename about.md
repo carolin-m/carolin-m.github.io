@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tagline: *Curriculum Vitae*
+tagline: {*Curriculum Vitae*}
 permalink: /about.html
 ref: about
 order: 0
