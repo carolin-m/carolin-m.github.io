@@ -7,7 +7,7 @@ ref: about
 order: 0
 ---
 
-## Short *Curriculum Vitae* <br>
+## Work <br>
 ______________
 
 ...
