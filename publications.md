@@ -59,6 +59,6 @@ M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeifer, M. G. Pullen, J. Ullrich, B.
 
 _________
 
-**For a list of publications see** [**my Google Scholar profile**](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ)
+For a list of publications see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ).
 
 [Back]({{ '/' | absolute_url }})
