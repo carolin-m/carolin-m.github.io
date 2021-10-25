@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About Me
-tagline: Curriculum Vitae
+tagline: 
 permalink: /about.html
 ref: about
 order: 0
 ---
 
-## Short CV <br>
+## Short *Curriculum Vitae* <br>
 ______________
 
 ...
