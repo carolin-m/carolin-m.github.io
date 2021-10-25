@@ -6,7 +6,7 @@ ref: publications
 order: 1
 ---
 
-### Publications <br>
+## Publications <br>
 
 > E. Giannoudis, S. Bold, **C. Müller**, A. Schwab, J. Bruhnke, N. Queyriaux, C. Gablin, L. Didier, C. Saint-Pierre, D. Gasparutto, D. Aldakov, S. Kupfer, V. Artero, B. Dietzek, M. Chavarot-Kerlidou <br>
 > *Hydrogen Production at a NiO Photocathode Based on a Ruthenium Dye–Cobalt Diimine Dioxime Catalyst Assembly: Insights from Advanced Spectroscopy and Post-operando Characterization* <br>
@@ -57,8 +57,8 @@ M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeifer, M. G. Pullen, J. Ullrich, B.
 > *[FeFe]-Hydrogenase H-cluster mimics mediated by naphthalene monoimide derivatives of perisubstituted dichalcogenides* <br>
 > [Dalt. Trans. **2017**, *46*, 34, 11180–11191](http://xlink.rsc.org/?DOI=C7DT02079A)
 
-**For a list of publications see** [**my Google Scholar profile**](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ)
-
 _________
+
+**For a list of publications see** [**my Google Scholar profile**](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ)
 
 [Back]({{ '/' | absolute_url }})
