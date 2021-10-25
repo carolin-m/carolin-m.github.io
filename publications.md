@@ -12,9 +12,9 @@ order: 1
 > *Hydrogen Production at a NiO Photocathode Based on a Ruthenium Dye–Cobalt Diimine Dioxime Catalyst Assembly: Insights from Advanced Spectroscopy and Post-operando Characterization* <br>
 > [ACS Appl. Mater. Interfaces **2021**](https://pubs.acs.org/doi/10.1021/acsami.1c12138)
 
-> **C. Müller**, D. Isakov, S. Rau, B. Dietzek <br>
-> *Influence of the Protonation State on the Excited-State Dynamics of Ruthenium(II) Complexes with Imidazole π-Extended Dipyridophenazine Ligands* <br>
-> [J. Phys. Chem. A **2021**, *125*, 27, 5911-5921](https://pubs.acs.org/doi/10.1021/acs.jpca.1c03856)
+> B. Seidler, M. Sittig, C. Zens, J. H. Tran, **C. Müller**, Y. Zhang, K. R. A. Schneider, H. Görls, A. Schubert, S. Gräfe, M. Schulz, B. Dietzek <br>
+> *Modulating the Excited-State Decay Pathways of Cu(I) 4 H -Imidazolate Complexes by Excitation Wavelength and Ligand Backbone* <br>
+> [J. Phys. Chem. B **2021**, *125*, 41, 11498-11511](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c06902)
 
 > **C. Müller**, D. Isakov, S. Rau, B. Dietzek <br>
 > *Influence of the Protonation State on the Excited-State Dynamics of Ruthenium(II) Complexes with Imidazole π-Extended Dipyridophenazine Ligands* <br>
