@@ -43,8 +43,7 @@ ________________
 | 2018-2021 | **Lab course** (*winter term*), <br /> *C-LA 701 Physical Chemistry* (Franck-Hertz experiment and investigation of atomic-, molecular-, and blackbody-radiation), <br /> Friedrich Schiller University Jena, Germany |
 | 2017-2019 | **Tutoring** (*winter term*), <br /> *BC5.3 Physical Chemistry* (Quantum Chemistry and Spectroscopy), <br /> Friedrich Schiller University Jena, Germany |
 | 2017-2019 | **Computer course** (*winter term*), <br /> *LaTeX for Beginners*, <br /> Friedrich Schiller University Jena, Germany |
-| 2015-2016 | **Independent Author**, <br /> Design of textbook excercises and sample solutions in chemistry
-(high school) |
+| 2015-2016 | **Independent Author**, <br /> Design of textbook excercises and sample solutions in chemistry (high school) |
 
 ___________
 
