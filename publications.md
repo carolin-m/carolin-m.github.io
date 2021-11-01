@@ -8,9 +8,13 @@ order: 1
 
 ## Journal Articles <br>
 
+> S. Maloul, M. van den Borg, **C. Müller**, L. Zedler, A. K. Mengele, D. Gaissmaier, T. Jacob, S. Rau, B. Dietzek, C. Streb <br>
+> *Multifunctional Polyoxometalate Platforms for Supramolecular Light‐driven Hydrogen Evolution* <br>
+> [Chem. Eur. J. **2021**](https://onlinelibrary.wiley.com/doi/10.1002/chem.202103817)
+
 > E. Giannoudis, S. Bold, **C. Müller**, A. Schwab, J. Bruhnke, N. Queyriaux, C. Gablin, L. Didier, C. Saint-Pierre, D. Gasparutto, D. Aldakov, S. Kupfer, V. Artero, B. Dietzek, M. Chavarot-Kerlidou <br>
 > *Hydrogen Production at a NiO Photocathode Based on a Ruthenium Dye–Cobalt Diimine Dioxime Catalyst Assembly: Insights from Advanced Spectroscopy and Post-operando Characterization* <br>
-> [ACS Appl. Mater. Interfaces **2021**](https://pubs.acs.org/doi/10.1021/acsami.1c12138)
+> [ACS Appl. Mater. Interfaces **2021**, *13*, 42, 49802-49815](https://pubs.acs.org/doi/10.1021/acsami.1c12138)
 
 > B. Seidler, M. Sittig, C. Zens, J. H. Tran, **C. Müller**, Y. Zhang, K. R. A. Schneider, H. Görls, A. Schubert, S. Gräfe, M. Schulz, B. Dietzek <br>
 > *Modulating the Excited-State Decay Pathways of Cu(I) 4 H -Imidazolate Complexes by Excitation Wavelength and Ligand Backbone* <br>
