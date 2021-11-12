@@ -37,6 +37,12 @@ ________________
 ## Teaching <br>
 ________________
 
+
+### LaTeX Computer Course
+
+- [Presentation Slides](./docs/LaTeX/Latex_Kurs_Folien.pdf)
+- [Collection of Tasks](./docs/LaTeX/LaTeX_Kurs_Aufgaben.pdf)
+
 ### Tutorials
 **Kinetics and Electrochemistry (PCII)**
 
@@ -64,12 +70,6 @@ ________________
 - [Tutorial 2 - *Symmetrie – Schwingungen von Molekülen* (open)](./docs/Tutorium/T_PCIV_2.pdf)
 - [Tutorial 3 - *Ebene Wellen und Dispersion*](./docs/Tutorium/T_PCIV_3_pw.pdf)
 - [Tutorial 4 - *Elektronische Übergänge*](./docs/Tutorium/T_PCIV_4_pw.pdf)
-
-
-### LaTeX Computer Course
-
-- [Presentation Slides](./docs/LaTeX/Latex_Kurs_Folien.pdf)
-- [Collection of Tasks](./docs/LaTeX/LaTeX_Kurs_Aufgaben.pdf)
 
 ___________
 
