@@ -15,7 +15,8 @@ ________________
 {: style="text-align: justify" } 
 I investigate intramolecular, hydrogen evolving mono- and bimetallic photocatalyst by means of steady-state and time-resolved spectroscopy. My research is dedicated to the development of *operando* approaches and the generation of basis data (*e.g.*, chemically, electrochemically and photochemically modified molecules) for understanding and analysing the complex *operando* datsets. To this end, I rely on a combination of spectroscopic (*e.g.* steady-state and time-resolved spectroscopy and spectro-electrochemistry) and quantum chemical methods (*e.g.*, TD-DFT predictions of state specific ground and excited state properties).
 
-> Photocatalysis • Time-resolved Spectroscopy • Spectro-electrochemistry • *Operando* Spectroscopy • Kinetic Modelling ([KiMoPack](https://github.com/erdzeichen/KiMoPack)) • TD-DFT 
+> Photocatalysis • Time-resolved Spectroscopy • Spectro-electrochemistry • *Operando* Spectroscopy • 
+> Kinetic Modelling ([KiMoPack](https://github.com/erdzeichen/KiMoPack)) • TD-DFT 
 
 ## Short *Curriculum Vitae* <br>
 ________________
