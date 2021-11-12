@@ -6,6 +6,9 @@ ref: publications
 order: 1
 ---
 
+> Currently, I have published 13 articles in peer-reviewed academic journals (*h*-index = 4), 5 preprints and 1 (spectroscopic) dataset. For a list of publications see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
+
+
 ## Journal Articles <br>
 
 > S. Maloul, M. van den Borg, **C. Müller**, L. Zedler, A. K. Mengele, D. Gaissmaier, T. Jacob, S. Rau, B. Dietzek, C. Streb <br>
@@ -60,6 +63,30 @@ M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeifer, M. G. Pullen, J. Ullrich, B.
 > H. Abul-Futouh, Y. Zagranyarski, **C. Müller**, M. Schulz, S. Kupfer, H. Görls, M. El-khateeb, S. Gräfe, B. Dietzek, K. Peneva, W. Weigand <br>
 > *[FeFe]-Hydrogenase H-cluster mimics mediated by naphthalene monoimide derivatives of perisubstituted dichalcogenides* <br>
 > [Dalt. Trans. **2017**, *46*, 34, 11180–11191](http://xlink.rsc.org/?DOI=C7DT02079A)
+
+## Preprints <br>
+
+> J. Brückmann, **C. Müller**, T. Maisuradze, A. K. Mengele, D. Nauroozi, S. Fauth, A. Gruber, S. Gräfe, K. Leopold, S. Kupfer, B. Dietzek-Ivansic, S. Rau <br>
+> *Pyrimidoquinxoalinophenanthroline opens next chapter in design of bridging ligands for artificial photosynthesis* <br>
+> [ChemRxiv](10.33774/chemrxiv-2021-bpd20-v2)
+
+> J. Brückmann, **C. Müller**, I. Friedländer, A. K. Mengele, K. Peneva, S. Rau, B. Dietzek-Ivansic <br>
+> *Photocatalytic reduction of nicotinamide co-factor by perylene sensitized Rh(III) complexes* <br>
+> [ChemRxiv](10.33774/chemrxiv-2021-g9bfz)
+
+> S. Maloul, M. van den Borg, **C. Müller**, L. Zedler, A. K. Mengele, D. Gaissmaier, T. Jacob, S. Rau, B. Dietzek-Ivansic, C. Streb <br>
+> *Multifunctional Polyoxometalate-Platforms for Supramolecular Light-driven Hydrogen Evolution* <br>
+> [ChemRxiv](10.33774/chemrxiv-2021-d0fg9)
+
+> M. Micheel, J. Hniopek, E. Hofmeister, **C. Müller**, M. Putra, L. Schwiedrzik, P. Wintergerst <br>
+> *How to Organize a Photocatalysis Conference Online (on a Budget)* <br>
+> [ChemRxiv](10.26434/chemrxiv.13580519)
+
+> K. Amini, M. Sclafani, T. Steinle, A. Le, A. Sanchez, **C. Müller**, L. Yue, J. R. Martínez Saavedra, A. Le,
+M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeiffer, M. G. Pullen, J. Ullrich, B. Wolter, R. Moszynski, C. D. Lin, J. G. Abajo, S. Gräfe, J. Biegert <br>
+> *Imaging ultrafast skeletal deformations in polyatomic molecules using laser-induced electron diffraction* <br>
+> [ChemRxiv](10.33774/chemrxiv-2021-bpd20-v2)
+
 
 ## Data <br>
 
