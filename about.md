@@ -35,6 +35,16 @@ ________________
 ## Teaching Experience <br>
 ________________
 
+# Tutorials
+**Kinetics and Electrochemistry**
+
+- [Tutorial 1 - *Mathematische Fingerübungen* (open)](./docs/Tutorium/T_PCII_1.pdf)
+- [Tutorial 2 - *Reaktionskinetik I*](./docs/Tutorium/T_PCII_2_pw.pdf)
+- [Tutorial 3 - *Reaktionskinetik II*](./docs/Tutorium/T_PCII_3_pw.pdf)
+- [Tutorial 3 - *Elektrochemie I*](./docs/Tutorium/T_PCII_4_pw.pdf)
+
+
+
 | 2021 | **Supervision** RISE DAAD exchange student (from University of York, UK), 3 months <br /> topic: *In situ* emission spectroscopy for monitoring photoreactions (experiments and automated, robust data analysis) |
 | 2021 | **Supervision** RISE DAAD exchange student (from California Institute of Technology, US), 1 month <br /> topic: *In situ* resonance Raman spectroscopy for monitoring photoreactions (experiments) |
 | 2021 | **Co-supervision** master student (from Friedrich Schiller University Jena, Germany), 6 months <br /> topic: Spectroscopic and quantum chemical studies on catalytically active perylene-substituted Rh(III) photocatalysts for hydrogen evolution reaction |
