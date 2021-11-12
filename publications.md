@@ -96,6 +96,6 @@ M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeiffer, M. G. Pullen, J. Ullrich, B
 
 _________
 
-For a list of publications see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ).
+For a list of publications see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
 
 [Back]({{ '/' | absolute_url }})
