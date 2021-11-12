@@ -11,7 +11,7 @@ order: 2
 
 ## Current Position <br>
 ________________
-I am currently working in the field **artificial photosynthesis** within the [**CataLight**](https://www.catalight.eu/) project (DFG, SFB-TRR234) in the group of **Prof. Benjamin Dietzek-Ivanšić** at the [Friedrich Schiller University Jena](https://www.ipc.uni-jena.de/en/AGDietzek) and the [Leibniz IPHT Jena](https://www.leibniz-ipht.de/en/departments/functional-interfaces/work-groups/photophysics-and-photochemistry-of-functional-interfaces/). 
+I am currently working in the field of **artificial photosynthesis** within the [**CataLight**](https://www.catalight.eu/) project (DFG, SFB-TRR234) in the group of **Prof. Benjamin Dietzek-Ivanšić** at the [Friedrich Schiller University Jena](https://www.ipc.uni-jena.de/en/AGDietzek) and the [Leibniz IPHT Jena](https://www.leibniz-ipht.de/en/departments/functional-interfaces/work-groups/photophysics-and-photochemistry-of-functional-interfaces/). 
 
 > • Photocatalysis • Spectro-electrochemistry • *Operando* Spectroscopy • <br />
 
