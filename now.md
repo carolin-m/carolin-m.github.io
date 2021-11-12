@@ -21,14 +21,13 @@ I investigate intramolecular, hydrogen evolving mono- and bimetallic photocataly
 
 
 **Spectroscopy** <br /> 
->> • Steady-state and time-resolved Spectroscopy • Spectro-electrochemistry • <br /> 
->> *Operando* Spectroscopy • Photocatalysis • <br />
+> • Steady-state and time-resolved Spectroscopy • Spectro-electrochemistry • *Operando* Spectroscopy • Photocatalysis • <br />
 
 **Computational Chemistry**  <br />
->> • DFT & TD-DFT • CASSCF • Molecular/Quantum Dynamics • <br />
+> • DFT & TD-DFT • CASSCF • Molecular/Quantum Dynamics • <br />
 
 **Cheminformatics** <br /> 
->> • Kinetic Modelling of time-resolved spectra ([KiMoPack](https://github.com/erdzeichen/KiMoPack)) • <br >
+> • Kinetic Modelling of time-resolved spectra ([KiMoPack](https://github.com/erdzeichen/KiMoPack)) • <br >
 
 
 ## Short *Curriculum Vitae* <br>
