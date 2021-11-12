@@ -46,7 +46,7 @@ ________________
 ### Tutorials
 **Kinetics and Electrochemistry (PCII)**
 
-- [(open) Tutorial 1 - *Mathematische Fingerübungen*](./docs/Tutorium/T_PCII_1.pdf)
+- [Tutorial 1 - *Mathematische Fingerübungen*](./docs/Tutorium/T_PCII_1.pdf) (**open**)
 - [Tutorial 2 - *Reaktionskinetik I*](./docs/Tutorium/T_PCII_2_pw.pdf)
 - [Tutorial 3 - *Reaktionskinetik II*](./docs/Tutorium/T_PCII_3_pw.pdf)
 - [Tutorial 4 - *Elektrochemie I*](./docs/Tutorium/T_PCII_4_pw.pdf)
