@@ -14,7 +14,7 @@ ________________
 I am currently working in the field **artificial photosynthesis** within the [**CataLight**](https://www.catalight.eu/) project (DFG, SFB-TRR234) in the group of **Prof. Benjamin Dietzek-Ivanšić** at the [Friedrich Schiller University Jena](https://www.ipc.uni-jena.de/en/AGDietzek) and the [Leibniz IPHT Jena](https://www.leibniz-ipht.de/en/departments/functional-interfaces/work-groups/photophysics-and-photochemistry-of-functional-interfaces/). 
 
 
-## Research Interest and Keywords <br>
+## Research Interests and Keywords <br>
 ________________
 {: style="text-align: justify" } 
 I investigate intramolecular, hydrogen evolving mono- and bimetallic photocatalyst by means of steady-state and time-resolved spectroscopy. My research is dedicated to the development of *operando* approaches and the generation of basis data (*e.g.*, chemically, electrochemically and photochemically modified molecules) for understanding and analysing the complex *operando* datsets. To this end, I rely on a combination of spectroscopic (*e.g.* steady-state and time-resolved spectroscopy and spectro-electrochemistry) and quantum chemical methods (*e.g.*, TD-DFT predictions of state specific ground and excited state properties).
