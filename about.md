@@ -66,8 +66,8 @@ ________________
 
 ### LaTeX Computer Course
 
-- [Presentation](./docs/LaTeX/Latex_Kurs_Folien.pdf)
-- [Tasks](./docs/LaTeX/LaTeX_Kurs_Aufgaben.pdf)
+- [Presentation Slides](./docs/LaTeX/Latex_Kurs_Folien.pdf)
+- [Collection of Tasks](./docs/LaTeX/LaTeX_Kurs_Aufgaben.pdf)
 
 ___________
 
