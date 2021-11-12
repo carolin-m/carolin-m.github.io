@@ -56,6 +56,12 @@ ________________
 - [Tutorial 9 - *Spin-Bahn-Kopplung*](./docs/Tutorium/T_PCIII_9_pw.pdf)
 - [Tutorial 10 - *Gemischte Aufgaben*](./docs/Tutorium/T_PCIII_10_pw.pdf)
 
+**Spectroscopy (PCIV)**
+
+- [Tutorial 1 - *Linienbreiten und Lebensdauern angeregter Zustände*](./docs/Tutorium/T_PCIV_1_pw.pdf)
+- [Tutorial 2 - *Symmetrie – Schwingungen von Molekülen* (open)](./docs/Tutorium/T_PCIV_2.pdf)
+- [Tutorial 3 - *Ebene Wellen und Dispersion*](./docs/Tutorium/T_PCIV_3_pw.pdf)
+- [Tutorial 4 - *Elektronische Übergänge*](./docs/Tutorium/T_PCIV_4_pw.pdf)
 
 
 | 2021 | **Supervision** RISE DAAD exchange student (from University of York, UK), 3 months <br /> topic: *In situ* emission spectroscopy for monitoring photoreactions (experiments and automated, robust data analysis) |
