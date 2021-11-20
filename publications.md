@@ -6,7 +6,7 @@ ref: publications
 order: 1
 ---
 
-Currently, I have published 13 articles in peer-reviewed academic journals (*h*-index = 4), and 1 (spectroscopic) dataset. For a list of publications see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
+Currently, I have published 13 articles in peer-reviewed academic journals (*h*-index = 4), and 1 (spectroscopic) dataset. For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
 
 
 ## Journal Articles <br>
