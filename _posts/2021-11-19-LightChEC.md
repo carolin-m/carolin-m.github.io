@@ -1,5 +1,6 @@
- ---
+---
 layout: post
+title: "LightChEC Symposium in Zürich"
 ---
 
 <img width="210" src="../images/LightChEC_Zurich.png">
