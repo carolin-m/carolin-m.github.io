@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LightChEC Symposium in Zürich"
+title: "LightChEC Symposium in Zürich."
 ---
 
 ![LightChEC](./postimages/LightChEC_Zurich.png){:height="200px" width="210px"}
