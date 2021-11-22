@@ -3,7 +3,7 @@ layout: post
 title: "LightChEC Symposium in Zürich"
 ---
 
-[LichtChEC](./images/LightChEC_Zurich.png)
+[LichtChEC](../images/LightChEC_Zurich.png)
 
 <img width="210" src="./images/LightChEC_Zurich.png">
 
