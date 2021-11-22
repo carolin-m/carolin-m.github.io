@@ -7,3 +7,4 @@ title: "LightChEC Symposium in Zürich"
 
 LightChEC Symposium on 19th of November 2021 in Zürich.
 
+![LightChEC]({{ '/images/LightChEC_Zurich.png' | absolute_url }})
