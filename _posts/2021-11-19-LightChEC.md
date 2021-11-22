@@ -3,6 +3,6 @@ layout: post
 title: "LightChEC Symposium in Zürich"
 ---
 
-<img src='./postimages/LightChEC_Zurich.png' width=200>
+<img width=200 src='../images/LightChEC_Zurich.png'>
 
 LightChEC Symposium on 19th of November 2021 in Zürich.
