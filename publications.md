@@ -11,6 +11,10 @@ Currently, I have published 13 articles in peer-reviewed academic journals (*h*-
 
 ## Journal Articles <br>
 
+> **C. Müller**, I. Friedländer, B. Bagemihl, S. Rau, B. Dietzek <br>
+> *The electron that breaks the catalyst’s back – excited state dynamics in intermediates of molecular photocatalysts* <br>
+> [PCCP **2021**](https://doi.org/10.1039/D1CP04498B)
+
 > S. Maloul, M. van den Borg, **C. Müller**, L. Zedler, A. K. Mengele, D. Gaissmaier, T. Jacob, S. Rau, B. Dietzek, C. Streb <br>
 > *Multifunctional Polyoxometalate Platforms for Supramolecular Light‐driven Hydrogen Evolution* <br>
 > [Chem. Eur. J. **2021**](https://onlinelibrary.wiley.com/doi/10.1002/chem.202103817)
