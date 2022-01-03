@@ -6,18 +6,19 @@ ref: publications
 order: 1
 ---
 
-Currently, I have published 13 articles in peer-reviewed academic journals (*h*-index = 4), and 1 (spectroscopic) dataset. For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
+Currently, I have published 14 articles in peer-reviewed academic journals (*h*-index = 5), and 1 (spectroscopic) dataset. For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
 
+Last updated on 01 January 2022.
 
 ## Journal Articles <br>
 
 > **C. Müller**, I. Friedländer, B. Bagemihl, S. Rau, B. Dietzek <br>
 > *The electron that breaks the catalyst’s back – excited state dynamics in intermediates of molecular photocatalysts* <br>
-> [PCCP **2021**](https://doi.org/10.1039/D1CP04498B)
+> [Phys. Chem. Chem. Phys. **2021**, *23*, 27397-27403](https://doi.org/10.1039/D1CP04498B)
 
 > S. Maloul, M. van den Borg, **C. Müller**, L. Zedler, A. K. Mengele, D. Gaissmaier, T. Jacob, S. Rau, B. Dietzek, C. Streb <br>
 > *Multifunctional Polyoxometalate Platforms for Supramolecular Light‐driven Hydrogen Evolution* <br>
-> [Chem. Eur. J. **2021**](https://onlinelibrary.wiley.com/doi/10.1002/chem.202103817)
+> [Chem. Eur. J. **2021**, *27*, 16846–16852](https://onlinelibrary.wiley.com/doi/10.1002/chem.202103817)
 
 > E. Giannoudis, S. Bold, **C. Müller**, A. Schwab, J. Bruhnke, N. Queyriaux, C. Gablin, L. Didier, C. Saint-Pierre, D. Gasparutto, D. Aldakov, S. Kupfer, V. Artero, B. Dietzek, M. Chavarot-Kerlidou <br>
 > *Hydrogen Production at a NiO Photocathode Based on a Ruthenium Dye–Cobalt Diimine Dioxime Catalyst Assembly: Insights from Advanced Spectroscopy and Post-operando Characterization* <br>
