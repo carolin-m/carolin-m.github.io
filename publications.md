@@ -12,7 +12,7 @@ Last updated on 01 January 2022.
 
 ## Journal Articles <br>
 
-> **C. Müller**, I. Friedländer, B. Bagemihl, S. Rau, B. Dietzek <br>
+> **C. Müller**, I. Friedländer, B. Bagemihl, S. Rau, B. Dietzek-Ivanšić <br>
 > *The electron that breaks the catalyst’s back – excited state dynamics in intermediates of molecular photocatalysts* <br>
 > [Phys. Chem. Chem. Phys. **2021**, *23*, 27397-27403](https://doi.org/10.1039/D1CP04498B)
 
