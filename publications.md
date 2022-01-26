@@ -16,7 +16,7 @@ Last updated on 01 January 2022.
 > *The electron that breaks the catalyst’s back – excited state dynamics in intermediates of molecular photocatalysts* <br>
 > [Phys. Chem. Chem. Phys. **2021**, *23*, 27397-27403](https://doi.org/10.1039/D1CP04498B)
 
-> S. Maloul, M. van den Borg, **C. Müller**, L. Zedler, A. K. Mengele, D. Gaissmaier, T. Jacob, S. Rau, B. Dietzek, C. Streb <br>
+> S. Maloul, M. van den Borg, **C. Müller**, L. Zedler, A. K. Mengele, D. Gaissmaier, T. Jacob, S. Rau, B. Dietzek-Ivanšić, C. Streb <br>
 > *Multifunctional Polyoxometalate Platforms for Supramolecular Light‐driven Hydrogen Evolution* <br>
 > [Chem. Eur. J. **2021**, *27*, 16846–16852](https://onlinelibrary.wiley.com/doi/10.1002/chem.202103817)
 
