@@ -12,7 +12,7 @@ Last updated on 01 January 2022.
 
 ## Journal Articles <br>
 
-> <img width=600 src='./images/TOC_Active-Repair_NatChem.png'> <br>
+> <img width=450 src='./images/TOC_Active-Repair_NatChem.png'> <br>
 > M. G. Pfeffer, **C. Müller**, E. T. E. Kastl, A. K. Mengele, B. Bagemihl, S. S. Fauth, J. Habermehl, L. Petermann, M. Wächtler, M. Schulz, D. Chartrand, F. Laverdière, P. Seeber, S. Kupfer, S. Gräfe, G. S. Hanan, J. G. Vos, B. Dietzek-Ivanšić, S. Rau <br>
 > *Active repair of a dinuclear photocatalyst for visible-light-driven hydrogen production* <br>
 > [Nat. Chem. **2022**](https://www.nature.com/articles/s41557-021-00860-6)
