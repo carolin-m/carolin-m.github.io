@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[**Active repair of a dinuclear photocatalyst for visible-light-driven hydrogen production**](https://www.nature.com/articles/s41557-021-00860-6)"
+title: "Active repair of a dinuclear photocatalyst"
 ---
 
 <img style="float: right;" width=400 src='../images/TOC_Active-Repair_NatChem.png'> 
