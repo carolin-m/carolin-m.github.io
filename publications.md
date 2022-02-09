@@ -12,6 +12,11 @@ Last updated on 01 January 2022.
 
 ## Journal Articles <br>
 
+> 
+> M. G. Pfeffer, **C. Müller**, E. T. E. Kastl, A. K. Mengele, B. Bagemihl, S. S. Fauth, J. Habermehl, L. Petermann, M. Wächtler, M. Schulz, D. Chartrand, F. Laverdière, P. Seeber, S. Kupfer, S. Gräfe, G. S. Hanan, J. G. Vos, B. Dietzek-Ivanšić, S. Rau <br>
+> *Active repair of a dinuclear photocatalyst for visible-light-driven hydrogen production* <br>
+> [Nat. Chem. **2022**](https://www.nature.com/articles/s41557-021-00860-6)
+
 > **C. Müller**, I. Friedländer, B. Bagemihl, S. Rau, B. Dietzek-Ivanšić <br>
 > *The electron that breaks the catalyst’s back – excited state dynamics in intermediates of molecular photocatalysts* <br>
 > [Phys. Chem. Chem. Phys. **2021**, *23*, 27397-27403](https://doi.org/10.1039/D1CP04498B)
