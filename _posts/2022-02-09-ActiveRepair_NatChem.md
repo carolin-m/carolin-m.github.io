@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Active repair of a hydrogen evolving dinuclear photocatalyst"
+title: "Now we repair!"
 ---
 
 <img style="float: right;" width=400 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/images/TOC_Active-Repair_NatChem.png'> 
