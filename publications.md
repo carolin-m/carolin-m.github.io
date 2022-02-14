@@ -17,6 +17,7 @@ Last updated on 09 February 2022.
 > *Active repair of a dinuclear photocatalyst for visible-light-driven hydrogen production* <br>
 > [Nat. Chem. **2022**](https://www.nature.com/articles/s41557-021-00860-6)
 
+> <img width=450 src='./images/TOC_RuPt-SEC.png'> <br>
 > **C. Müller**, I. Friedländer, B. Bagemihl, S. Rau, B. Dietzek-Ivanšić <br>
 > *The electron that breaks the catalyst’s back – excited state dynamics in intermediates of molecular photocatalysts* <br>
 > [Phys. Chem. Chem. Phys. **2021**, *23*, 27397-27403](https://doi.org/10.1039/D1CP04498B)
