@@ -10,9 +10,14 @@ cayman-blog:
 
 theme: # leave it empty
 
-# social
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
 author: Carolin Müller
 image: /images/caro.png
+
+github_username: carolin-m
+orcid_id: 0000-0002-5968-2216
 
 researchgate:
   username: Carolin-Mueller-6
