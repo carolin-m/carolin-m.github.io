@@ -1,13 +1,10 @@
-title: Carolin Müller
+title: Carolin Müller (Jena)
 description: Dr. rer. nat. in Physical Chemistry
 show_downloads: true
 
-baseurl: ""
-url: "https://carolin-m.github.io" # change this to the base hostname & protocol for your site
+baseurl: "https://carolin-m.github.io"
+url: "https://carolin-m.github.io" 
 
-
-# cayman-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
   date_format: "%b %-d, %Y"
 
