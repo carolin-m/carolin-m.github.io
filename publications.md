@@ -6,13 +6,13 @@ ref: publications
 order: 1
 ---
 
-Currently, I have published 15 articles in peer-reviewed academic journals (*h*-index = 5), 1 (spectroscopic) dataset, and 1 python tool ([*KiMoPack*](https://pypi.org/project/KiMoPack/6.2.10/)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
+Currently, I have published 17 articles in peer-reviewed academic journals (*h*-index = 6), 1 (spectroscopic) dataset, and 1 python tool ([*KiMoPack*](https://pypi.org/project/KiMoPack/6.2.10/)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
 
 Last updated on 09 February 2022.
 
 ## Journal Articles <br>
 
-> <img width=450 src='./images/TOC_Active-Repair_NatChem.png'> <br>
+> <img width=450 src='./images/TOC_RuLOxim.png'> <br>
 > **C. Müller**, A. Schwab, N. M. Randell, S. Kupfer, B. Dietzek-Ivanšić, M. Chavarot-Kerlidou <br>
 > *A Combined Spectroscopic and Theoretical Study on a Ruthenium Complex Featuring a π-Extended dppz Ligand for Light-Driven Accumulation of Multiple Reducing Equivalents* <br>
 > [Chem. Eur. J. **2022**, e202103882](https://doi.org/10.1002/chem.202103882)
