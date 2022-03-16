@@ -8,7 +8,7 @@ order: 1
 
 Currently, I have published 17 articles in peer-reviewed academic journals (*h*-index = 6), 1 (spectroscopic) dataset, and 1 python tool ([*KiMoPack*](https://pypi.org/project/KiMoPack/6.2.10/)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
 
-Last updated on 09 February 2022.
+Last updated on 16 March 2022.
 
 ## Journal Articles <br>
 
