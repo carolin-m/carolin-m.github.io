@@ -8,7 +8,7 @@ order: 1
 
 <img width=400 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/images/TOC_KiMoPack.png'> 
 
-The tutorial will take place on 25/03/2022 between 8:00 and 16:30 *via* Zoom. Here you will find the presentation slides, exercises as well as the *Jupyter notebooks* that are used in the hands-on sessions. Moreover you can download the group challenges here.
+The tutorial will take place on 25/03/2022 between 8:30 and 16:30 *via* Zoom. Here you will find the presentation slides, exercises as well as the *Jupyter notebooks* that are used in the hands-on sessions. Moreover you can download the group challenges here.
 
 - [Presentation Slides and Excercises]( )
 - [Hands-On *Jupyter Notebooks*]( )
