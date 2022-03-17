@@ -14,7 +14,7 @@ _____
 The hands-on session of the Python tutorial will be performed using *Jupyter Notebooks*. During the course we work with the [KiMoPack](https://pypi.org/project/KiMoPack/) tool. Please make sure that you have installed [Python](https://www.python.org/), the Classical [Jupyter Notebook](https://jupyter.org/install) and [KiMoPack](https://pypi.org/project/KiMoPack/).
 <br>
 
-I recommend to install [Anaconda](https://www.anaconda.com/products/individual). If you use anaconda you need can install additional packages iby opening open a command line (*e.g.* using “cmd” in windows) and execute the following commands:
+I recommend to install [Anaconda](https://www.anaconda.com/products/individual). If you use anaconda you need to install additional packages by opening a command line (*e.g.* using “cmd” in windows) and executing the following commands:
 
  * conda install -c erdzeichen kimopack
  * conda install -c anaconda qt
