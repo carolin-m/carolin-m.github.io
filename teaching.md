@@ -7,19 +7,19 @@ order: 1
 ---
 
 ## KiMoPack Tutorial <br>
-________________
+_____
 
 - Slides
 - Excercises
 
 ## LaTeX Computer Course <br>
-________________
+_____
 
 - [Presentation Slides](./docs/LaTeX/Latex_Kurs_Folien_pw.pdf)
 - [Collection of Tasks](./docs/LaTeX/LaTeX_Kurs_Aufgaben.pdf) (open access, *CC BY 4.0*)
 
 ## Tutorials in Physical Chemistry <br>
-________________
+_____
 
 **Kinetics and Electrochemistry (PCII)**
 
@@ -48,6 +48,6 @@ ________________
 - [Tutorial 3 - *Ebene Wellen und Dispersion*](./docs/Tutorium/T_PCIV_3_pw.pdf)
 - [Tutorial 4 - *Elektronische Übergänge*](./docs/Tutorium/T_PCIV_4_pw.pdf)
 
-___________
+_____
 
 [Back]({{ '/' | absolute_url }})
