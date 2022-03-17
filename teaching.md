@@ -6,6 +6,9 @@ ref: teaching
 order: 1
 ---
 
+[KiMoPack Tutorial]({{ '/about.html' | absolute_url }}).
+
+
 ## KiMoPack Tutorial <br>
 _____
 
