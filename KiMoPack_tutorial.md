@@ -5,6 +5,7 @@ tagline: Kinetic Modeling of time-resolved data
 ref: kimopack_tutorial
 order: 1
 ---
+https://github.com/carolin-m/carolin-m.github.io/blob/main/images/TOC_KiMoPack.png?raw=true
 
 The tutorial will take place on 25/03/2022 between 8:00 and 16:30 *via* Zoom. Here you will find the presentation slides, exercises as well as the *Jupyter notebooks* that are used in the hands-on sessions. Moreover you can download the group challenges here.
 
