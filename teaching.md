@@ -6,7 +6,7 @@ ref: teaching
 order: 1
 ---
 
-[Test test]({{ '/KiMoPack_tutorial.html' | absolute_url }})
+[Test ]({{ '/KiMoPack_tutorial.html' | absolute_url }})
 
 ## KiMoPack Tutorial <br>
 _____
