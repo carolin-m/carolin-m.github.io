@@ -20,7 +20,9 @@ I recommend to install [Anaconda](https://www.anaconda.com/products/individual).
  * conda install -c conda-forge lmfit
  * conda install -c conda-forge python-pptx
 
-Please make sure that you can open a specific *Jupyter Notebook* (*e.g.*, see [here](https://docs.jupyter.org/en/latest/running.html)).
+Please make sure that you can open a specific *Jupyter Notebook* (*e.g.*, see [here](https://docs.jupyter.org/en/latest/running.html)). 
+
+You can use this [test *Jupyter Notebook* (test.ipynb)]() to verify that the installation was successful. Therefore, open *test.ipynb* and run the first cell (*e.g.* hit SHIFT + ENTER). If the installation was successful, the path to *plot_func.py* and your current working directory will be printed. If there are any problems, feel free to contact me.
 
 ## Tutorial 
 
