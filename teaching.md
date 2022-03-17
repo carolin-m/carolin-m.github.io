@@ -9,8 +9,8 @@ order: 1
 ## Teaching Materials <br>
 _____
 
-- [KiMoPack Tutorial]({{ '/KiMoPack_tutorial.html' | absolute_url }})
-- [LaTeX Computer Course]({{ '/LaTeX_Course.html' | absolute_url }})
+- [Kinetic Modeling of time-resolved Data - A python Tutorial]({{ '/KiMoPack_tutorial.html' | absolute_url }})
+- [Computer Course on LaTeX]({{ '/LaTeX_Course.html' | absolute_url }})
 - [Tutorials in Physical Chemistry]({{ '/PC_Tutorials.html' | absolute_url }})
 
 _____
