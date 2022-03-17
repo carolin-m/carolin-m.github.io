@@ -6,7 +6,7 @@ ref: pc_tutorial
 order: 1
 ---
 
-**Kinetics and Electrochemistry (PCII)**
+## Kinetics and Electrochemistry (PCII)
 _____
 
 - [Tutorial 1 - *Mathematische Fingerübungen*](./docs/Tutorium/T_PCII_1.pdf) (open access, *CC BY 4.0*)
@@ -14,7 +14,7 @@ _____
 - [Tutorial 3 - *Reaktionskinetik II*](./docs/Tutorium/T_PCII_3_pw.pdf)
 - [Tutorial 4 - *Elektrochemie I*](./docs/Tutorium/T_PCII_4_pw.pdf)
 
-**Quantum Chemistry (PCIII)**
+## Quantum Chemistry (PCIII)
 _____
 
 - [Tutorial 1 - *Koordinatentransformation*](./docs/Tutorium/T_PCIII_1_pw.pdf)
@@ -28,7 +28,7 @@ _____
 - [Tutorial 9 - *Spin-Bahn-Kopplung*](./docs/Tutorium/T_PCIII_9_pw.pdf)
 - [Tutorial 10 - *Gemischte Aufgaben*](./docs/Tutorium/T_PCIII_10_pw.pdf)
 
-**Spectroscopy (PCIV)**
+## Spectroscopy (PCIV)
 _____
 
 - [Tutorial 1 - *Linienbreiten und Lebensdauern angeregter Zustände*](./docs/Tutorium/T_PCIV_1_pw.pdf)
