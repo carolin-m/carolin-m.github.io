@@ -30,7 +30,7 @@ _____
 
 The materials are available from 24/03/2022.
 
-- [Presentation Slides and Excercises]( )
+- [Presentation Slides and Exercises]( )
 - [Hands-On *Jupyter Notebooks*]( )
 - [Solution *Jupyter Notebooks*]( )
 
