@@ -11,7 +11,7 @@ The tutorial will take place on 25/03/2022 between 8:30 and 16:30 *via* Zoom. He
 _____
 ## 01) Preparation/Installation
 
-The hands-on session of the Python tutorial will be performed using *Jupyter Notebooks*. Please make sure that you have installed [Python](https://www.python.org/), the Classical [Jupyter Notebook](https://jupyter.org/install) and [KiMoPack](https://pypi.org/project/KiMoPack/).
+The hands-on session of the Python tutorial will be performed using *Jupyter Notebooks*. During the course we work with the [KiMoPack](https://pypi.org/project/KiMoPack/) tool. Please make sure that you have installed [Python](https://www.python.org/), the Classical [Jupyter Notebook](https://jupyter.org/install) and [KiMoPack](https://pypi.org/project/KiMoPack/).
 <br>
 
 I recommend to install [Anaconda](https://www.anaconda.com/products/individual). If you use anaconda you need can install additional packages iby opening open a command line (*e.g.* using “cmd” in windows) and execute the following commands:
