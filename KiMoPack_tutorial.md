@@ -1,7 +1,7 @@
 ---
 layout: page
-title: KiMoPack Tutorial
-tagline: Kinetic Modeling of time-resolved data
+title: Python Tutorial
+tagline: Kinetic Modeling of time-resolved Spectra
 ref: kimopack_tutorial
 order: 1
 ---
