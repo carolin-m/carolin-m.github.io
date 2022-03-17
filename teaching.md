@@ -9,8 +9,8 @@ order: 1
 ## KiMoPack Tutorial <br>
 ________________
 
-- Test
-- Test
+- Slides
+- Excercises
 
 ## LaTeX Computer Course <br>
 ________________
