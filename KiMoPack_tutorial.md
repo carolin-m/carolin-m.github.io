@@ -34,7 +34,7 @@ The materials are available from 24/03/2022.
 - [Hands-On *Jupyter Notebooks*]( )
 - [Solution *Jupyter Notebooks*]( )
 
-<img width=400 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/images/TOC_KiMoPack.png'> 
+<img width=600 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/images/TOC_KiMoPack.png'> 
 
 _____
 ## 03) Group Challenges
