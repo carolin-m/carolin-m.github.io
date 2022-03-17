@@ -21,7 +21,6 @@ The tutorial will take place on 25/03/2022 between 8:00 and 16:30 *via* Zoom. He
 - [Group 02]( )
 - [Group 03]( )
 - [Group 04]( )
-- [Group 05]( )
 
 ## LaTeX Computer Course <br>
 _____
