@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LaTeX Computer Course
-tagline: Schreiben mit LaTeX
+tagline: Writing with LaTeX
 ref: latex_course
 order: 1
 ---
