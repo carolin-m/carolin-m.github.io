@@ -28,8 +28,6 @@ You can use [this *Jupyter Notebook* (test.ipynb)](./docs/KiMoPack/test.ipynb) t
 _____
 ## 02) Tutorial 
 
-The materials are available from 24/03/2022.
-
 - [Presentation Slides and Exercises](./docs/KiMoPack/Presentation-Slides_Exercises.pdf)
 - [Hands-on Session 00 - Introduction to Python](./docs/KiMoPack/00_hands-on_session.zip)
 - [Hands-on Session 01 - Analysis Workflow with KiMoPack](./docs/KiMoPack/01_hands-on_session.zip)
