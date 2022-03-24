@@ -31,8 +31,9 @@ _____
 The materials are available from 24/03/2022.
 
 - [Presentation Slides and Exercises]( )
-- [Hands-On *Jupyter Notebooks*]( )
-- [Solution *Jupyter Notebooks*]( )
+- [Hands on 00 - Introduction to Python]( )
+- [Hands on 01 - Analysis Workflow with KiMoPack]( )
+- [Hands on 02 - Deining and Optimizing Kinetic Models]( )
 
 <img width=600 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/images/TOC_KiMoPack.png'> 
 
