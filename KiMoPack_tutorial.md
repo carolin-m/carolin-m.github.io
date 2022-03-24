@@ -39,10 +39,12 @@ The materials are available from 24/03/2022.
 _____
 ## 03) Group Challenges
 
-- [Group 01]( )
-- [Group 02]( )
-- [Group 03]( )
-- [Group 04]( )
+- [Group 01](./docs/KiMoPack/Group01.zip)
+- [Group 02](./docs/KiMoPack/Group02.zip)
+- [Group 03](./docs/KiMoPack/Group03.zip)
+- [Group 04](./docs/KiMoPack/Group04.zip)
+
+- [Solutions](./docs/KiMoPack/Solutions_Group-Challenges.zip)
 
 _____
 
