@@ -35,8 +35,6 @@ The materials are available from 24/03/2022.
 - [Hands-on Session 01 - Analysis Workflow with KiMoPack](./docs/KiMoPack/01_hands-on_session.zip)
 - [Hands-on Session 02 - Defining and Optimizing Kinetic Models](./docs/KiMoPack/02_hands-on_session.zip)
 
-- [Hands-on Session - Solutions]( )
-
 <img width=600 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/images/TOC_KiMoPack.png'> 
 
 _____
@@ -47,7 +45,11 @@ _____
 - [Group 03](./docs/KiMoPack/Group03.zip)
 - [Group 04](./docs/KiMoPack/Group04.zip)
 
-- [Solutions](./docs/KiMoPack/Solutions_Group-Challenges.zip)
+_____
+## 04) Follow-up
+
+- [Hands-on Session - Solutions]( )
+- [Group Challenge - Solutions](./docs/KiMoPack/Solutions_Group-Challenges.zip)
 
 _____
 
