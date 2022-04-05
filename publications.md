@@ -6,7 +6,7 @@ ref: publications
 order: 1
 ---
 
-Currently, I have published 17 articles in peer-reviewed academic journals (*h*-index = 6), 1 (spectroscopic) dataset, and 1 python tool ([*KiMoPack*](https://pypi.org/project/KiMoPack/6.2.10/)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
+Currently, I have published 16 articles in peer-reviewed academic journals (*h*-index = 6), 1 (spectroscopic) dataset, and 1 python tool ([*KiMoPack*](https://pypi.org/project/KiMoPack/6.2.10/)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
 
 Last updated on 16 March 2022.
 
@@ -98,6 +98,13 @@ M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeifer, M. G. Pullen, J. Ullrich, B.
 >  M. G. Pfeffer, **C. Müller**, E. T. E. Kastl, A. K. Mengele, B. Bagemihl, S. Fauth, J. Habermehl, L. Petermann, M. Wächtler, M. Schulz, D. Chartrand, F. Laverdière, P. Seeber, S. Kupfer, S. Gräfe, G. S. Hanan, J. G. Vos, B. Dietzek-Ivanšić, S. Rau <br>
 > *Active repair of a dinuclear photocatalyst for visible light-driven hydrogen production* <br>
 > [Zenodo **2021**](https://doi.org/10.5281/zenodo.5565022)
+
+
+## Conference Publications <br>
+
+>  M. Petersen, C. Müller, M. Wejner, S. Rau, B. Dietzek-Ivanšić, T. Wilke <br>
+> *Photoprocesses in chemistry education – Tracing photochemical reactions with a digital low-cost photometer* <br>
+> [New Perspectives in Science Education **2022**](https://conference.pixel-online.net/NPSE/files/npse/ed0011/FP/3357-CHEM5454-FP-NPSE11.pdf)
 
 _________
 
