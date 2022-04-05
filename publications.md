@@ -104,7 +104,7 @@ M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeifer, M. G. Pullen, J. Ullrich, B.
 
 >  M. Petersen, C. Müller, M. Wejner, S. Rau, B. Dietzek-Ivanšić, T. Wilke <br>
 > *Photoprocesses in chemistry education – Tracing photochemical reactions with a digital low-cost photometer* <br>
-> [New Perspectives in Science Education **2022**](https://conference.pixel-online.net/NPSE/files/npse/ed0011/FP/3357-CHEM5454-FP-NPSE11.pdf)
+> [In: International Conference Proceedings. New Perspectives in Science Education 11th Edition. Hybrid Event, 17-18 March 2022. Pixel (Hrsg.). Filodiritto Publisher, Bologna, 110–115, **2022**](https://conference.pixel-online.net/NPSE/files/npse/ed0011/FP/3357-CHEM5454-FP-NPSE11.pdf)
 
 _________
 
