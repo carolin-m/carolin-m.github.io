@@ -14,6 +14,10 @@ Last updated on 16 March 2022.
 
 ## 2022 <br>
 
+> L. Zedler, **C. Müller**, P. Wintergerst, A. K. Mengele, S. Rau, B. Dietzek-Ivanšić <br>
+> *Influence of the linker chemistry on the photoinduced charge-transfer dynamics of heterodinuclear photocatalysts* <br>
+> [Chem. Eur. J. **2022**](http://dx.doi.org/10.1002/chem.202200490.)
+
 > <img width=450 src='./images/TOC_RuLOxim.png'> <br>
 > **C. Müller**, A. Schwab, N. M. Randell, S. Kupfer, B. Dietzek-Ivanšić, M. Chavarot-Kerlidou <br>
 > *A Combined Spectroscopic and Theoretical Study on a Ruthenium Complex Featuring a π-Extended dppz Ligand for Light-Driven Accumulation of Multiple Reducing Equivalents* <br>
