@@ -14,13 +14,13 @@ Last updated on 20 May 2022.
 
 ## 2022 <br>
 
-> L. Zedler, P. Wintergerst, A. K. Mengele, **C. Müller**, C. Li, B. Dietzek-Ivanšić, S. Rau <br>
-> *Outpacing conventional nicotinamide hydrogenation catalysis by a strongly communicating heterodinuclear photocatalyst* <br>
-> [Nat. Commun. 13, 2538 **2022**](https://doi.org/10.1038/s41467-022-30147-4)
-
 > L. Zedler, **C. Müller**, P. Wintergerst, A. K. Mengele, S. Rau, B. Dietzek-Ivanšić <br>
 > *Influence of the linker chemistry on the photoinduced charge-transfer dynamics of heterodinuclear photocatalysts* <br>
 > [Chem. Eur. J. **2022**](http://dx.doi.org/10.1002/chem.202200490.)
+
+> L. Zedler, P. Wintergerst, A. K. Mengele, **C. Müller**, C. Li, B. Dietzek-Ivanšić, S. Rau <br>
+> *Outpacing conventional nicotinamide hydrogenation catalysis by a strongly communicating heterodinuclear photocatalyst* <br>
+> [Nat. Commun. 13, 2538 **2022**](https://doi.org/10.1038/s41467-022-30147-4)
 
 > <img width=450 src='./images/TOC_RuLOxim.png'> <br>
 > **C. Müller**, A. Schwab, N. M. Randell, S. Kupfer, B. Dietzek-Ivanšić, M. Chavarot-Kerlidou <br>
