@@ -6,9 +6,9 @@ ref: publications
 order: 1
 ---
 
-Currently, I have published 16 articles in peer-reviewed academic journals (*h*-index = 6), 1 (spectroscopic) dataset, and 1 python tool ([*KiMoPack*](https://pypi.org/project/KiMoPack/6.2.10/)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
+Currently, I have published 18 articles in peer-reviewed academic journals (*h*-index = 6), 2 (spectroscopic) datasets, and 1 software ([*KiMoPack*](https://pypi.org/project/KiMoPack/6.2.10/)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
 
-Last updated on 16 March 2022.
+Last updated on 20 May 2022.
 
 ## Journal Articles <br>
 
@@ -105,7 +105,7 @@ M. Hemmer, M. Lewenstein, R. Moshammer, T. Pfeifer, M. G. Pullen, J. Ullrich, B.
 
 > L. Zedler, P. Wintergerst, A. K. Mengele, **C. Müller**, C. Li, B. Dietzek-Ivanšić, S. Rau <br>
 > *Which bridge to cross, which mountain to climb – supramolecular photocatalysis outpacing conventional catalysis* <br>
-> [Nat. Commun. 13, 2538 **2022**](https://doi.org/10.5281/zenodo.5837779)
+> [Zenodo **2022**](https://doi.org/10.5281/zenodo.5837779)
 
 >  M. G. Pfeffer, **C. Müller**, E. T. E. Kastl, A. K. Mengele, B. Bagemihl, S. Fauth, J. Habermehl, L. Petermann, M. Wächtler, M. Schulz, D. Chartrand, F. Laverdière, P. Seeber, S. Kupfer, S. Gräfe, G. S. Hanan, J. G. Vos, B. Dietzek-Ivanšić, S. Rau <br>
 > *Active repair of a dinuclear photocatalyst for visible light-driven hydrogen production* <br>
