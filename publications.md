@@ -6,13 +6,17 @@ ref: publications
 order: 1
 ---
 
-Currently, I have published 18 articles in peer-reviewed academic journals (*h*-index = 6), 2 (spectroscopic) datasets, and 1 software ([*KiMoPack*](https://pypi.org/project/KiMoPack/6.2.10/)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
+Currently, I have published 19 articles in peer-reviewed academic journals (*h*-index = 6), 2 (spectroscopic) datasets, and 1 software ([*KiMoPack*](https://pypi.org/project/KiMoPack/6.2.10/)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
 
 Last updated on 20 May 2022.
 
 ## Journal Articles <br>
 
 ## 2022 <br>
+
+> **C. Müller**, P. Wintergerst, S. Santhosh Nair, N. Meitinger, S. Rau, B. Dietzek-Ivanšić <br>
+> *Link to glow - iEDDA conjugation of a Ruthenium(II) tetrazine complex leading to dihydropyrazine and pyrazine complexes with improved $^1$O$_2$ formation ability* <br>
+> [J. Photochem. Photobiol **2022**](https://doi.org/10.1016/j.jpap.2022.100130)
 
 > L. Zedler, **C. Müller**, P. Wintergerst, A. K. Mengele, S. Rau, B. Dietzek-Ivanšić <br>
 > *Influence of the linker chemistry on the photoinduced charge-transfer dynamics of heterodinuclear photocatalysts* <br>
