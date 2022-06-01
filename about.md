@@ -10,7 +10,8 @@ order: 0
 ## Education and Scientific Career <br>
 ______________
 
-| since 2021  | [**Postdoc**]({{ '/now.html' | absolute_url }}), Friedrich Schiller University Jena, Germany <br /> Workgroup: [**Prof. B. Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) |
+| since 2022  | [**Postdoc**]({{ '/now.html' | absolute_url }}), University of Luxemburg, Luxemburg <br /> Workgroup: [**Prof. A. Tkatchenko**]([https://www.ipc.uni-jena.de/en/AGDietzek](https://wwwen.uni.lu/recherche/fstm/dphyms/people/alexandre_tkatchenko)) |
+| 2021-2022  | [**Postdoc**]({{ '/now.html' | absolute_url }}), Friedrich Schiller University Jena, Germany <br /> Workgroup: [**Prof. B. Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) |
 | 2018-2021  | **Dissertation (Dr. rer. nat)**, Friedrich Schiller University Jena, Germany <br /> Scholarship: Kekulé Fellowship (*Fonds der Chemischen Industrie*) <br /> Thesis Title: *Towards Operando Spectroscopy of Supramolecular Photocatalysts – A Case Study on Ru-dppz-derived Systems* <br /> Supervisor: [**Prof. B. Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) <br /> Referees: [**Prof. B. Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek), [**Prof. S. Gräfe**](https://www.ipc.uni-jena.de/Theochem), and [**Prof. T. Keyes**](https://sites.google.com/dcu.ie/keyes-research-group/home) <br /> Grade: *summa cum laude* |
 | 2020 | **Research Stay**, Lund University, Sweden <br /> Workgroup: [**Prof. A. Yartsev**](https://portal.research.lu.se/en/persons/arkady-yartsev) <br /> Purpose: Ultrafast Transient Absorption Spectroscopy in Flow Cells to study the Reaction Dynamics of photoexcited Ru(II) complexes with Triethylamine (2 weeks) |
 | 2016-2018 | **M. Sc. in Chemistry** Friedrich Schiller University Jena, Germany <br /> Thesis Title: *Photoactive Proton Pumping at a Microcavity Supported Lipid Bilayer* <br /> Supervisors: [**Prof. T. Keyes**](https://sites.google.com/dcu.ie/keyes-research-group/home) and  [**Prof. B. Dietzek-Ivanšić**](https://www.ipc.uni-jena.de/en/AGDietzek) (formal) <br /> Grade: 1.1 (Thesis: 1.0) |
@@ -20,6 +21,7 @@ ______________
 ## Fellowships <br>
 ________________
 
+| since 06/2022 | Feodor-Lynen Postdoc-Fellowship (*Alexander von Humboldt Foundation*) |
 | 05/2019-02/2021 | FCI Kekulé PhD fellowship (*Fonds der Chemischen Industrie*) |
 | 02/2018-09/2018 | PROMOS DAAD scholarship (research stay at the Dublin City University) |
 | 10/2017-09/2018 | *Deutschlandstipendium* (Friedrich Schiller University Jena) |
