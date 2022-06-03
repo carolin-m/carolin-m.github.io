@@ -19,6 +19,8 @@ Last updated on 31 May 2022.
 > *Link to glow - iEDDA conjugation of a Ruthenium(II) tetrazine complex leading to dihydropyrazine and pyrazine complexes with improved <sup>1</sup>O<sub>2</sub> formation ability* <br>
 > [J. Photochem. Photobiol, 11, 100130 **2022**](https://doi.org/10.1016/j.jpap.2022.100130)
 
+
+> <img width=450 src='./images/TOC_RuRh-SEC.png'> <br>
 > L. Zedler, **C. Müller**, P. Wintergerst, A. K. Mengele, S. Rau, B. Dietzek-Ivanšić <br>
 > *Influence of the linker chemistry on the photoinduced charge-transfer dynamics of heterodinuclear photocatalysts* <br>
 > [Chem. Eur. J. **2022**, e202200490](https://doi.org/10.1002/chem.202200490)
