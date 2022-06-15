@@ -15,6 +15,11 @@ Last updated on 31 May 2022.
 ## 2022 <br>
 
 > <img width=450 src='./images/TOC_Ru-tetrazine.png'> <br>
+> **C. Müller**, T. Pascher, A. Eriksson, P. Chabera, J. Uhlig <br>
+> *KiMoPack: A python Package for Kinetic Modeling of the Chemical Mechanism* <br>
+> [J. Phys. Chem. A **2022**](https://doi.org/10.1021/acs.jpca.2c00907)
+
+> <img width=450 src='./images/TOC_Ru-tetrazine.png'> <br>
 > **C. Müller**, P. Wintergerst, S. Santhosh Nair, N. Meitinger, S. Rau, B. Dietzek-Ivanšić <br>
 > *Link to glow - iEDDA conjugation of a Ruthenium(II) tetrazine complex leading to dihydropyrazine and pyrazine complexes with improved <sup>1</sup>O<sub>2</sub> formation ability* <br>
 > [J. Photochem. Photobiol, 11, 100130 **2022**](https://doi.org/10.1016/j.jpap.2022.100130)
