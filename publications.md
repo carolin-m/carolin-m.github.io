@@ -6,15 +6,15 @@ ref: publications
 order: 1
 ---
 
-Currently, I have published 19 articles in peer-reviewed academic journals (*h*-index = 6), 2 (spectroscopic) datasets, and 1 software ([*KiMoPack*](https://pypi.org/project/KiMoPack/6.2.10/)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
+Currently, I have published 20 articles in peer-reviewed academic journals (*h*-index = 6) providing 2 (spectroscopic) datasets and 1 software ([*KiMoPack*](https://doi.org/10.1021/acs.jpca.2c00907)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
 
-Last updated on 31 May 2022.
+Last updated on 15 June 2022.
 
 ## Journal Articles <br>
 
 ## 2022 <br>
 
-> <img width=450 src='./images/TOC_Ru-tetrazine.png'> <br>
+> <img width=450 src='./images/TOC_KiMoPack.png'> <br>
 > **C. Müller**, T. Pascher, A. Eriksson, P. Chabera, J. Uhlig <br>
 > *KiMoPack: A python Package for Kinetic Modeling of the Chemical Mechanism* <br>
 > [J. Phys. Chem. A **2022**](https://doi.org/10.1021/acs.jpca.2c00907)
