@@ -23,7 +23,6 @@ Last updated on 21 June 2022.
 > **C. Müller**, T. Pascher, A. Eriksson, P. Chabera, J. Uhlig <br>
 > *KiMoPack: A python Package for Kinetic Modeling of the Chemical Mechanism* <br>
 > [J. Phys. Chem. A **2022**](https://doi.org/10.1021/acs.jpca.2c00907) <br>
-> [(see post)]({{ '_posts/2022-06-21-KiMoPack.html' | absolute_url }})
 > [(see post)](https://carolin-m.github.io/2022/06/21/KiMoPack.html)
 
 > <img width=450 src='./images/TOC_Ru-tetrazine.png'> <br>
@@ -44,14 +43,12 @@ Last updated on 21 June 2022.
 > **C. Müller**, A. Schwab, N. M. Randell, S. Kupfer, B. Dietzek-Ivanšić, M. Chavarot-Kerlidou <br>
 > *A Combined Spectroscopic and Theoretical Study on a Ruthenium Complex Featuring a π-Extended dppz Ligand for Light-Driven Accumulation of Multiple Reducing Equivalents* <br>
 > [Chem. Eur. J. **2022**, e202103882](https://doi.org/10.1002/chem.202103882) <br>
-> [(see post)]({{ '_posts/2022-03-16-RuLOxim.html' | absolute_url }})
 > [(see post)](https://carolin-m.github.io/2022/03/16/RuLOxim.html)
 
 > <img width=450 src='./images/TOC_Active-Repair_NatChem.png'> <br>
 > M. G. Pfeffer, **C. Müller**, E. T. E. Kastl, A. K. Mengele, B. Bagemihl, S. S. Fauth, J. Habermehl, L. Petermann, M. Wächtler, M. Schulz, D. Chartrand, F. Laverdière, P. Seeber, S. Kupfer, S. Gräfe, G. S. Hanan, J. G. Vos, B. Dietzek-Ivanšić, S. Rau <br>
 > *Active repair of a dinuclear photocatalyst for visible-light-driven hydrogen production* <br>
 > [Nat. Chem. **2022**](https://www.nature.com/articles/s41557-021-00860-6) <br>
-> [(see post)]({{ '_posts/2022-02-09-ActiveRepair_NatChem.html' | absolute_url }})
 > [(see post)](https://carolin-m.github.io/2022/02/09/ActiveRepair_NatChem.html)
 
 ## 2021 <br>
