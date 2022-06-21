@@ -23,7 +23,7 @@ Last updated on 21 June 2022.
 > **C. Müller**, T. Pascher, A. Eriksson, P. Chabera, J. Uhlig <br>
 > *KiMoPack: A python Package for Kinetic Modeling of the Chemical Mechanism* <br>
 > [J. Phys. Chem. A **2022**](https://doi.org/10.1021/acs.jpca.2c00907)
-> [see post]({{ '_posts/2022-06-21-KiMoPack.html' | absolute_url }}).
+> <link rel="see post" href="https://carolin-m.github.io/2022/06/21/KiMoPack.html">
 
 > <img width=450 src='./images/TOC_Ru-tetrazine.png'> <br>
 > **C. Müller**, P. Wintergerst, S. Santhosh Nair, N. Meitinger, S. Rau, B. Dietzek-Ivanšić <br>
