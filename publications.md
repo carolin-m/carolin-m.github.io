@@ -6,13 +6,17 @@ ref: publications
 order: 1
 ---
 
-Currently, I have published 20 articles in peer-reviewed academic journals (*h*-index = 6) providing 2 (spectroscopic) datasets and 1 software ([*KiMoPack*](https://doi.org/10.1021/acs.jpca.2c00907)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
+Currently, I have published 21 articles in peer-reviewed academic journals (*h*-index = 6) providing 2 (spectroscopic) datasets and 1 software ([*KiMoPack*](https://doi.org/10.1021/acs.jpca.2c00907)). For a full list of publications (including non-peer reviewed articles/preprints) see also [my Google Scholar profile](https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ) and [my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6).
 
-Last updated on 15 June 2022.
+Last updated on 21 June 2022.
 
 ## Journal Articles <br>
 
-## 2022 <br>
+## 2022 (7) <br>
+
+> J. Brückmann, **C. Müller**, T. Maisuradze, A. K. Mengele, D. Nauroozi, S. Fauth, A. Gruber, S. Gräfe, K. Leopold, S. Kupfer, B. Dietzek-Ivanšić, S. Rau <br>
+> *Pyrimidoquinazolinophenanthroline opens next chapter in design of bridging ligands for artificial photosynthesis* <br>
+> [Chem. Eur. J. **2022**](https://doi.org/10.1002/chem.202200766)
 
 > <img width=450 src='./images/TOC_KiMoPack_paper.png'> <br>
 > **C. Müller**, T. Pascher, A. Eriksson, P. Chabera, J. Uhlig <br>
@@ -43,7 +47,7 @@ Last updated on 15 June 2022.
 > *Active repair of a dinuclear photocatalyst for visible-light-driven hydrogen production* <br>
 > [Nat. Chem. **2022**](https://www.nature.com/articles/s41557-021-00860-6)
 
-## 2021 <br>
+## 2021 (7) <br>
 
 > <img width=450 src='./images/TOC_RuPt-SEC.png'> <br>
 > **C. Müller**, I. Friedländer, B. Bagemihl, S. Rau, B. Dietzek-Ivanšić <br>
@@ -74,7 +78,7 @@ Last updated on 15 June 2022.
 > *Photophysics of Ruthenium(II) Complexes with Thiazole π-Extended Dipyridophenazine Ligands* <br>
 > [Inorg. Chem. **2021**, *60*, 2, 760-773](https://pubs.acs.org/doi/10.1021/acs.inorgchem.0c02765)
 
-## 2020 <br>
+## 2020 (3) <br>
 
 > A. K. Mengele, **C. Müller**, D. Nauroozi, S. Kupfer, B. Dietzek, S. Rau <br>
 > *Molecular Scylla and Charybdis: Maneuvering between pH Sensitivity and Excited-State Localization in Ruthenium Bi(benz)imidazole Complexes* <br>
@@ -88,7 +92,7 @@ Last updated on 15 June 2022.
 > *Structure of Diethyl-Phosphonic Acid Anchoring Group Affects the Charge-Separated State on an Iridium(III) Complex Functionalized NiO Surface* <br>
 > [ChemPhotoChem **2020**, *4*, 8, 618–629](https://onlinelibrary.wiley.com/doi/abs/10.1002/cptc.202000038)
 
-## 2017 – 2019 <br>
+## 2017 – 2019 (4) <br>
 
 > D. O’Connor, **C. Müller**, N. K. Sarangi, A. Byrne, T. E. Keyes <br>
 > *Dimethylaniline functionalised pyrene fluorophores; dual colour pH switching in solution and self-assembled monolayers* <br>
