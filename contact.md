@@ -14,8 +14,10 @@ Campus Limpertsberg <br>
 162a Avenue de la Faïencerie <br>
 L-1511 Luxembourg <br>
 
-**E-Mail:** [carolin.mueller@uni-jena.de](mailto:carolin.mueller@uni-jena.de) <br>
-**office:** BRB 2.08
+**E-Mail:** [carolin.mueller@ext.uni.lu](mailto:carolin.mueller@ext.uni.lu) <br>
+**office:** BRB 2.08 <br>
+
+**other E-Mail:** [carolin.mueller@uni-jena.de](mailto:carolin.mueller@uni-jena.de) <br>
 
 __________
 
