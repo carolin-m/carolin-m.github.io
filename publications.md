@@ -14,7 +14,7 @@ Last updated on 15 June 2022.
 
 ## 2022 <br>
 
-> <img width=450 src='./images/TOC_KiMoPack.png'> <br>
+> <img width=450 src='./images/TOC_KiMoPack_paper.png'> <br>
 > **C. Müller**, T. Pascher, A. Eriksson, P. Chabera, J. Uhlig <br>
 > *KiMoPack: A python Package for Kinetic Modeling of the Chemical Mechanism* <br>
 > [J. Phys. Chem. A **2022**](https://doi.org/10.1021/acs.jpca.2c00907)
