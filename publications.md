@@ -13,7 +13,7 @@ Last updated on 21 June 2022.
 ## Journal Articles <br>
 
 ## 2022  <br>
-### total number: 7
+#### total number: 7
 
 > J. Brückmann, **C. Müller**, T. Maisuradze, A. K. Mengele, D. Nauroozi, S. Fauth, A. Gruber, S. Gräfe, K. Leopold, S. Kupfer, B. Dietzek-Ivanšić, S. Rau <br>
 > *Pyrimidoquinazolinophenanthroline opens next chapter in design of bridging ligands for artificial photosynthesis* <br>
@@ -49,7 +49,7 @@ Last updated on 21 June 2022.
 > [Nat. Chem. **2022**](https://www.nature.com/articles/s41557-021-00860-6)
 
 ## 2021 <br>
-### total number: 7
+#### total number: 7
 
 > <img width=450 src='./images/TOC_RuPt-SEC.png'> <br>
 > **C. Müller**, I. Friedländer, B. Bagemihl, S. Rau, B. Dietzek-Ivanšić <br>
@@ -81,7 +81,7 @@ Last updated on 21 June 2022.
 > [Inorg. Chem. **2021**, *60*, 2, 760-773](https://pubs.acs.org/doi/10.1021/acs.inorgchem.0c02765)
 
 ## 2020 <br>
-### total number: 3
+#### total number: 3
 
 > A. K. Mengele, **C. Müller**, D. Nauroozi, S. Kupfer, B. Dietzek, S. Rau <br>
 > *Molecular Scylla and Charybdis: Maneuvering between pH Sensitivity and Excited-State Localization in Ruthenium Bi(benz)imidazole Complexes* <br>
@@ -96,7 +96,7 @@ Last updated on 21 June 2022.
 > [ChemPhotoChem **2020**, *4*, 8, 618–629](https://onlinelibrary.wiley.com/doi/abs/10.1002/cptc.202000038)
 
 ## 2017 – 2019 <br>
-### total number: 4
+#### total number: 4
 
 > D. O’Connor, **C. Müller**, N. K. Sarangi, A. Byrne, T. E. Keyes <br>
 > *Dimethylaniline functionalised pyrene fluorophores; dual colour pH switching in solution and self-assembled monolayers* <br>
