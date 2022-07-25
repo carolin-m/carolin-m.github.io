@@ -22,7 +22,7 @@ Last updated on 21 June 2022.
 > <img width=450 src='./images/TOC_KiMoPack_paper.png'> <br>
 > **C. Müller**, T. Pascher, A. Eriksson, P. Chabera, J. Uhlig <br>
 > *KiMoPack: A python Package for Kinetic Modeling of the Chemical Mechanism* <br>
-> [J. Phys. Chem. A **2022**](https://doi.org/10.1021/acs.jpca.2c00907) <br>
+> [J. Phys. Chem. A **2022**, *126* (25), 4087-4099](https://doi.org/10.1021/acs.jpca.2c00907) <br>
 > [(see post)](https://carolin-m.github.io/2022/06/21/KiMoPack.html)
 
 > <img width=450 src='./images/TOC_Ru-tetrazine.png'> <br>
@@ -33,22 +33,22 @@ Last updated on 21 June 2022.
 > <img width=450 src='./images/TOC_RuRh-SEC.png'> <br>
 > L. Zedler, **C. Müller**, P. Wintergerst, A. K. Mengele, S. Rau, B. Dietzek-Ivanšić <br>
 > *Influence of the linker chemistry on the photoinduced charge-transfer dynamics of heterodinuclear photocatalysts* <br>
-> [Chem. Eur. J. **2022**, e202200490](https://doi.org/10.1002/chem.202200490)
+> [Chem. Eur. J. **2022**, *28*, e202200490](https://doi.org/10.1002/chem.202200490)
 
 > L. Zedler, P. Wintergerst, A. K. Mengele, **C. Müller**, C. Li, B. Dietzek-Ivanšić, S. Rau <br>
 > *Outpacing conventional nicotinamide hydrogenation catalysis by a strongly communicating heterodinuclear photocatalyst* <br>
-> [Nat. Commun. 13, 2538 **2022**](https://doi.org/10.1038/s41467-022-30147-4)
+> [Nat. Commun. **2022**, *13*, 2538](https://doi.org/10.1038/s41467-022-30147-4)
 
 > <img width=450 src='./images/TOC_RuLOxim.png'> <br>
 > **C. Müller**, A. Schwab, N. M. Randell, S. Kupfer, B. Dietzek-Ivanšić, M. Chavarot-Kerlidou <br>
 > *A Combined Spectroscopic and Theoretical Study on a Ruthenium Complex Featuring a π-Extended dppz Ligand for Light-Driven Accumulation of Multiple Reducing Equivalents* <br>
-> [Chem. Eur. J. **2022**, e202103882](https://doi.org/10.1002/chem.202103882) <br>
+> [Chem. Eur. J. **2022**, *28*, e202103882](https://doi.org/10.1002/chem.202103882) <br>
 > [(see post)](https://carolin-m.github.io/2022/03/16/RuLOxim.html)
 
 > <img width=450 src='./images/TOC_Active-Repair_NatChem.png'> <br>
 > M. G. Pfeffer, **C. Müller**, E. T. E. Kastl, A. K. Mengele, B. Bagemihl, S. S. Fauth, J. Habermehl, L. Petermann, M. Wächtler, M. Schulz, D. Chartrand, F. Laverdière, P. Seeber, S. Kupfer, S. Gräfe, G. S. Hanan, J. G. Vos, B. Dietzek-Ivanšić, S. Rau <br>
 > *Active repair of a dinuclear photocatalyst for visible-light-driven hydrogen production* <br>
-> [Nat. Chem. **2022**](https://www.nature.com/articles/s41557-021-00860-6) <br>
+> [Nat. Chem. **2022**, *14*, 505-506](https://www.nature.com/articles/s41557-021-00860-6) <br>
 > [(see post)](https://carolin-m.github.io/2022/02/09/ActiveRepair_NatChem.html)
 
 ## 2021 <br>
