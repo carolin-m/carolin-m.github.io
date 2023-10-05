@@ -1,11 +1,11 @@
 # Site settings
-title: CPC Group
-email: carolin.mueller@ext.uni.lu
-url: https://compphotochem.github.io/
-description: "Group Website"
+title: Dr. Carolin Müller
+email: carolin.mueller6@googlemail.com
+url: https://carolin-m.github.io/
+description: "Personal Website"
         
 keywords: "– Computational Photochemistry and -physics – (Kinetic) Modeling of Multivariate Spectra – Chemoinformatics –" 
-meta_author: Carolin Müller
+meta_author: Dr. Carolin Müller
 
 # Google webmaster tools
 google_verify:
@@ -34,15 +34,15 @@ color:
 footer:
   copyright: Dr. Carolin Müller
   location: About
-  social: Meet Us
-  credits: Contribute
+  social: Around the Web
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/carolin-m%C3%BCller-b2581723b
   - title: github
-    url: https://github.com/CompPhotoChem/CompPhotoChem.github.io
+    url: https://github.com/carolin-m/carolin-m.github.io
   - title: instagram
     url: https://www.instagram.com/caro_chemie/
 
@@ -55,7 +55,7 @@ address:
   - line: 'Powered by Jekyll.'
 
 # Credits content
-credits: '<a href="https://compphotochem.github.io/positions/" class="btn btn-lg btn-outline">Join the Group &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a><br> <a href="https://compphotochem.github.io/contact/" class="btn btn-lg btn-outline">Contact the Group </a>'
+credits: Jekyll #'<a href="https://compphotochem.github.io/positions/" class="btn btn-lg btn-outline">Join the Group &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a><br> <a href="https://compphotochem.github.io/contact/" class="btn btn-lg btn-outline">Contact the Group </a>'
 
 # Build settings
 markdown: kramdown
