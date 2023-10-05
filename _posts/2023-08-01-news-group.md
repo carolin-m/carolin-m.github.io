@@ -2,8 +2,8 @@
 layout: default
 categories: [news]
 color-bg: true
-title: Formation of the Group
-datum: '01.08.2023'
+title: FontAwesome
+datum: '01.10.2023'
 fa: 'fa-solid fa-user-group'
 postimg: 
 alt: group kickoff
