@@ -48,9 +48,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: <a href="https://compphotochem.github.io/" style="color:white">Home</a>
-  - line: <a href="https://compphotochem.github.io/research/" style="color:white">Research</a>
-  - line: <a href="https://compphotochem.github.io/impressum/" style="color:white">Impressum</a>
+  - line: <a href="https://carolin-m.github.io/" style="color:white">Home</a>
+  #- line: <a href="https://carolin-m.github.io/research/" style="color:white">Research</a>
+  - line: <a href="https://carolin-m.github.io/impressum/" style="color:white">Impressum</a>
   - line: " "
   - line: 'Powered by Jekyll.'
 
