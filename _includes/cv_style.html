@@ -95,15 +95,22 @@
           <h3>Services to Home Institution and Scientific Community</h3>
           <br><br>
         </div>
-        {% for s in item.service %}
+        {% for event in item.service %}
           <div class="row">
-            <div class="col-lg-2 col-lg-offset-1">
-              <p>{{ s.time }}</p>
+            <div class="col-lg-3 col-lg-offset-2">
+              <!-- <p><a class="btn btn-lg btn-success" style="background-color:#2C001E;">{{ event.when }}</a></p>-->
+              <br>
+              <p><span>{{ event.when }}</span></p>
+              <br>
             </div>
-            <div class="col-lg-7">
-              <p>{{ s.descr }}</p>
+            <div class="col-lg-6">
+              <p>
+                {{ event.what }}<br>
+                <i>{{ event.where }}</i>
+              </p>
             </div>
           </div>
+          <br>
         {% endfor %}
       </div>
     </section>
