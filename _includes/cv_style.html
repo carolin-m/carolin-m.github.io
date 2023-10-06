@@ -43,11 +43,11 @@
               <h4>{{ event.what }}</h4>
               <p>{{ event.where }}</p>
                 {% if event.descr %}
-                  <ul><p>
+                  <ul style="font-size:20px">
                     {% for point in event.descr %}
                     <li>{{ point }}</li>
                     {% endfor %}
-                  </p></ul>
+                  </ul>
                 {% endif %}
             </div>
           </div>
