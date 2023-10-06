@@ -30,6 +30,7 @@
               <p>{{ event.descr }}</p>
             </div>
           </div>
+        {% endfor %}
       </div>
     </section>
   {% endif %}
@@ -52,11 +53,12 @@
               <p>{{ a.descr }}</p>
             </div>
           </div>
+        {% endfor %}
       </div>
     </section>
   {% endif %}
 {% endfor %}
-<!-- Services -->
+<!-- service -->
 {% for item in site.categories.cv %}
   {% if item.service %}
     <section class="success" id="schedule-color">
@@ -74,6 +76,7 @@
               <p>{{ s.descr }}</p>
             </div>
           </div>
+        {% endfor %}
       </div>
     </section>
   {% endif %}
