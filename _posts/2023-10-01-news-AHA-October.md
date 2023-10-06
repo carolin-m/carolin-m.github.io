@@ -11,6 +11,7 @@ description: 'FontAwesome icons are the secret to spicing up your web design.'
 link_descr: 'https://compphotochem.github.io/'
 link_img: 
 readtime: '1 min'
+longtext: true
 ---
 
 <span class="dropcap">F</span>ontAwesome icons are the secret to spicing up your web design. 
