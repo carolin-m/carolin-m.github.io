@@ -1,0 +1,75 @@
+<!-- Header -->
+<section id="schedule"> </section>
+<section id="schedule">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>About Me</h2>
+        <hr class="star-primary">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Timetable day-by-day -->
+{% for item in site.categories.cv %}
+  {% if item.education %}
+    <section class="success" id="schedule-color">
+      <div class="container">
+        <div class="col-lg-12 text-center">
+          <h3>Education and Scientific Career</h3>
+          <br><br>
+        </div>
+        {% for event in item.education %}
+          <div class="row">
+            <div class="col-lg-2 col-lg-offset-1">
+              <p>{{ event.time }}/p>
+            </div>
+            <div class="col-lg-7">
+              <p>{{ event.descr }}</p>
+            </div>
+          </div>
+      </div>
+    </section>
+  {% endif %}
+  <!-- Awards -->
+  {% if item.awards %}
+    <section id="awards-no-color">
+      <div class="container">
+        <div class="col-lg-12 text-center">
+          <h3>Fellowships & Awards</h3>
+          <br><br>
+        </div>
+        {% for a in item.awards %}
+          <div class="row">
+            <div class="col-lg-2 col-lg-offset-1">
+              <p>{{ a.time }}/p>
+            </div>
+            <div class="col-lg-7">
+              <p>{{ a.descr }}</p>
+            </div>
+          </div>
+      </div>
+    </section>
+  {% endif %}
+  {% if item.service %}
+    <section class="success" id="schedule-color">
+      <div class="container">
+        <div class="col-lg-12 text-center">
+          <h3>Services to Home Institution and Scientific Community</h3>
+          <br><br>
+        </div>
+        {% for s in item.service %}
+          <div class="row">
+            <div class="col-lg-2 col-lg-offset-1">
+              <p>{{ s.time }}/p>
+            </div>
+            <div class="col-lg-7">
+              <p>{{ s.descr }}</p>
+            </div>
+          </div>
+      </div>
+    </section>
+  {% endif %}
+{% enfor %}
