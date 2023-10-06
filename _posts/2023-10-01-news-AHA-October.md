@@ -8,10 +8,9 @@ fa: 'fa-solid fa-user-group'
 postimg: 
 alt: group kickoff
 description: 'FontAwesome icons are the secret to spicing up your web design.'
-link_descr: 'https://compphotochem.github.io/'
 link_img: 
 readtime: '1 min'
-longtext: true
+longtext: '2023-10-01-news-AHA-October'
 ---
 
 <span class="dropcap">F</span>ontAwesome icons are the secret to spicing up your web design. 
