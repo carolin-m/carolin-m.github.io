@@ -9,4 +9,4 @@ date:   2022-02-09
 We present active repair strategies that allow to increase the catalytic activity from a few hours to a few days. The complementary study 
 includes *e.g.* catalytic studies, *operando* steady-state and transient absorption spectroscopy, as well as (TD-)DFT simulations.
 
-<img width=400 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/assets/img/pub/TOC_Active-Repair_NatChem.png'> 
+<img width=400 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/pub/TOC_Active-Repair_NatChem.png'> 
