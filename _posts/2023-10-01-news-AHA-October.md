@@ -10,7 +10,7 @@ alt: group kickoff
 description: 'FontAwesome icons are the secret to spicing up your web design.'
 link_img: 
 readtime: '1 min'
-longtext: '2023-10-01-news-AHA-October'
+longtext: '/posts/AHA-October-2023'
 ---
 
 <span class="dropcap">F</span>ontAwesome icons are the secret to spicing up your web design. 
