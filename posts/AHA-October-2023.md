@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postpage
 title: 'FontAwesome Icons are Awesome - My <i>AHA</i> Moment of September 2023'
 date: '01.10.2023'
 readtime: '1 min'
