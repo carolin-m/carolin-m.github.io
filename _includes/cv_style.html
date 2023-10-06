@@ -67,15 +67,20 @@
           <h2>Fellowships & Awards</h2>
           <br><br>
         </div>
-        {% for a in item.awards %}
+        {% for event in item.awards %}
           <div class="row">
-            <div class="col-lg-2 col-lg-offset-1">
-              <p>{{ a.time }}</p>
+            <div class="col-lg-3 col-lg-offset-2">
+              <!-- <p><a class="btn btn-lg btn-success" style="background-color:#2C001E;">{{ event.when }}</a></p>-->
+              <br>
+              <p><span>{{ event.when }}</span></p>
+              <br>
             </div>
-            <div class="col-lg-7">
-              <p>{{ a.descr }}</p>
+            <div class="col-lg-6">
+              <h4>{{ event.what }}</h4>
+              <p>{{ event.where }}</p>
             </div>
           </div>
+          <br>
         {% endfor %}
       </div>
     </section>
