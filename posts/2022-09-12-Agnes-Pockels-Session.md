@@ -10,5 +10,5 @@ thesis in the Agnes-Pockels award session of the [Young Physical Chemists](https
 Tagung 2022. Congratulations to the winner of the Agnes-Pockels Award, Christina M. Tonauer, and to the other
 participants, Fabian Berger and Marco Eckhoff!
 
-<img width=450 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/assets/img/posts/AP_finalists.jpg'> 
+<img width=450 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/AP_finalists.jpg'> 
 
