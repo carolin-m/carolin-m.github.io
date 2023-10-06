@@ -37,14 +37,13 @@
               <span>{{ event.when }}</span>
             </div>
             <div class="col-lg-6">
+              <h4>{{ event.what }}</h4>
               <p>
-                <h4>{{ event.what }}</h4><br>
-                <i>{{ event.where }}</i><br>
+                {{ event.where }}
                 {% if event.descr %}
-                  <br>
-                  {{ event.descr }}
+                  <br>{{ event.descr }}
+                {% endif %}
               </p>
-              {% endif %}
             </div>
           </div>
         {% endfor %}
