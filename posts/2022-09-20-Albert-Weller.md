@@ -9,4 +9,4 @@ date: 2022-09-20
 <br>
 Many thanks to the "Fachgruppe Photochemie" for the opportunity to present my awarded results at the 28<sup>th</sup> Lecture Conference on Photochemistry and to my PhD supervisor, collaborators and colleagues.
 
-<img width=450 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/assets/img/posts/albert-weller-duesseldorf.jpeg'> 
+<img width=450 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/albert-weller-duesseldorf.jpeg'> 
