@@ -21,7 +21,7 @@
     } 
 </style> 
 
-<!-- Timetable day-by-day -->
+<!-- education -->
 {% for item in site.categories.cv %}
   {% if item.education %}
     <section class="success" id="schedule-color">
@@ -57,9 +57,7 @@
       </div>
     </section>
   {% endif %}
-{% endfor %}
-<!-- Awards -->
-{% for item in site.categories.cv %}
+  <!-- Awards -->
   {% if item.awards %}
     <section id="awards-no-color">
       <div class="container">
@@ -85,9 +83,7 @@
       </div>
     </section>
   {% endif %}
-{% endfor %}
-<!-- service -->
-{% for item in site.categories.cv %}
+  <!-- service -->
   {% if item.service %}
     <section class="success" id="schedule-color">
       <div class="container">
@@ -108,6 +104,35 @@
               <p>
                   <i>{{ event.where }}</i>
               </p>
+            </div>
+          </div>
+          <br>
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
+  <!-- member -->
+  {% if item.membership %}
+    <section class="success" id="schedule-color">
+      <div class="container">
+        <div class="col-lg-12 text-center">
+          <h3>Memberships</h3>
+          <br><br>
+        </div>
+        {% for event in item.membership %}
+          <div class="row">
+            <div class="col-lg-3 col-lg-offset-2">
+              <br>
+              <p><span>{{ event.when }}</span></p>
+              <br>
+            </div>
+            <div class="col-lg-6">
+              <h4>{{ event.where }}</h4>
+              <ul style="font-size:20px">
+                {% for point in event.info %}
+                <li>{{ point }}</li>
+                {% endfor %}
+              </ul>
             </div>
           </div>
           <br>
