@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 categories: [news]
 color-bg: true
 title: 'FontAwesome Icons are Awesome - My <i>AHA</i> Moment of September 2023'
