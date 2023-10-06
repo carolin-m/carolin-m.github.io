@@ -13,4 +13,4 @@ presentations and discussions.
 Many thanks to our external speakers: Dr. Johannes Hoja (AUT), Dr. Mattias Rupp (LUX), Dr. Stefan Chmiela (GER),
 Hartmut Maennel (GER), and Assoc. Prof. Rocco Martinazzo (ITA).
 
-<img width=800 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/assets/img/posts/post_TCP-Xmas-Workshop.png'> 
+<img width=800 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/post_TCP-Xmas-Workshop.png'> 
