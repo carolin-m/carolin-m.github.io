@@ -41,7 +41,7 @@ _____
 - [Hands-on Session 01 - Analysis Workflow with KiMoPack](../docs/KiMoPack/01_hands-on_session.zip)
 - [Hands-on Session 02 - Defining and Optimizing Kinetic Models](../docs/KiMoPack/02_hands-on_session.zip)
 
-<img width=600 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/assets/img/pub/TOC_KiMoPack.png'> 
+<img width=600 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/pub/TOC_KiMoPack.png'> 
 
 _____
 ### 03) Group Challenges
