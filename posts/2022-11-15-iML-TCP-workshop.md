@@ -12,4 +12,4 @@ challenges and future paths.
 It was a great pleasure for me to organise this workshop. 
 Thanks to the TCP group for their active participation.
 
-<img width=450 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/assets/img/posts/iML_workshop.jpeg'> 
+<img width=450 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/iML_workshop.jpeg'> 
