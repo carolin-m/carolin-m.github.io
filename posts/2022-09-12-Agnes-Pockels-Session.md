@@ -11,3 +11,4 @@ Tagung 2022. Congratulations to the winner of the Agnes-Pockels Award, Christina
 participants, Fabian Berger and Marco Eckhoff!
 
 <img width=450 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/assets/img/posts/AP_finalists.jpg'> 
+
