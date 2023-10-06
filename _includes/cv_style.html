@@ -33,7 +33,9 @@
       </div>
     </section>
   {% endif %}
-  <!-- Awards -->
+{% endfor %}
+<!-- Awards -->
+{% for item in site.categories.cv %}
   {% if item.awards %}
     <section id="awards-no-color">
       <div class="container">
@@ -53,7 +55,9 @@
       </div>
     </section>
   {% endif %}
-  <!-- service -->
+{% endfor %}
+<!-- Services -->
+{% for item in site.categories.cv %}
   {% if item.service %}
     <section class="success" id="schedule-color">
       <div class="container">
