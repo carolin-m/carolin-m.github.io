@@ -40,12 +40,14 @@
             </div>
             <div class="col-lg-6">
               <h4>{{ event.what }}</h4>
-              <p>
-                {{ event.where }}
+              <p>{{ event.where }}</p>
                 {% if event.descr %}
-                  <br><br>{{ event.descr }}
+                  <ul><p>
+                    {% for point in event.descr %}
+                    <li>{{ point }}</li>
+                    {% endfor %}
+                  </p></ul>
                 {% endif %}
-              </p>
             </div>
           </div>
           <br>
