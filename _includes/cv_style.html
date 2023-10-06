@@ -24,10 +24,15 @@
         {% for event in item.education %}
           <div class="row">
             <div class="col-lg-2 col-lg-offset-1">
-              <p>{{ event.time }}/p>
+              <p><a class="btn btn-lg btn-success" style="background-color:#2C001E;">{{ event.when }}</a></p>
             </div>
             <div class="col-lg-7">
-              <p>{{ event.descr }}</p>
+              <p>{{ event.what }}</p><br>
+              <p style=color:#2C001E;">{{ event.where }}</p>
+              {% if event.descr %}
+                <br><br>
+                <p>{{ event.descr }}</p>
+              {% endif %}
             </div>
           </div>
         {% endfor %}
@@ -47,7 +52,7 @@
         {% for a in item.awards %}
           <div class="row">
             <div class="col-lg-2 col-lg-offset-1">
-              <p>{{ a.time }}/p>
+              <p>{{ a.time }}</p>
             </div>
             <div class="col-lg-7">
               <p>{{ a.descr }}</p>
@@ -70,7 +75,7 @@
         {% for s in item.service %}
           <div class="row">
             <div class="col-lg-2 col-lg-offset-1">
-              <p>{{ s.time }}/p>
+              <p>{{ s.time }}</p>
             </div>
             <div class="col-lg-7">
               <p>{{ s.descr }}</p>
