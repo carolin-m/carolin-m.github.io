@@ -20,4 +20,4 @@ I also want to express my thanks to all of the attendees for coming and helping 
 In the future, I'm looking forward to co-organizing more events like this where we can bring together experts from industry and members of the scientific community to exchange thoughts and viewpoints.
 <br>
 
-<img width=450 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/assets/img/posts/2023-ypc-m-i-AI.png'>
+<img width=450 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/2023-ypc-m-i-AI.png'>
