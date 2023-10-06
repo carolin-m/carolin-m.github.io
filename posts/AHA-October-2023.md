@@ -19,11 +19,11 @@ The following table summarizes some examples
   </tr>
   <tr>
     <td><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></td>
-    <td>`<i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i>`</td>
+    <td><code><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></code></td>
   </tr>
   <tr>
     <td><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></td>
-    <td>`<i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i>`</td>
+    <td><code><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></code></td>
   </tr>
 </table> 
 
