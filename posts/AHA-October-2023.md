@@ -12,10 +12,20 @@ FontAwesome provides a wealth of customizable vector icons, allowing easy adjust
 Integrating these icons into timetables is a breeze. 
 The following table summarizes some examples
 
-Icon | Code |
---- | --- |
-<i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i> |  `<i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i>` | 
-<i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i> |  `<i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i>` | 
+ <table>
+  <tr>
+    <th>Icon</th>
+    <th>HTML Code</th>
+  </tr>
+  <tr>
+    <td><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></td>
+    <td>`<i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i>`</td>
+  </tr>
+  <tr>
+    <td><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></td>
+    <td>`<i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i>`</td>
+  </tr>
+</table> 
 
 This code snippets can be used to insert smybols for e.g. location, mail or users, drawing instant attention to vital event spots. 
 FontAwesome icons aren't just visually appealing; they also convey information effectively, making them a valuable addition to timetables and web design in general.
