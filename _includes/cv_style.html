@@ -18,7 +18,7 @@
     <section class="success" id="schedule-color">
       <div class="container">
         <div class="col-lg-12 text-center">
-          <h3>Education and Scientific Career</h3>
+          <h2>Education and Scientific Career</h2>
           <br><br>
         </div>
         {% for event in item.education %}
@@ -27,11 +27,13 @@
               <p><a class="btn btn-lg btn-success" style="background-color:#2C001E;">{{ event.when }}</a></p>
             </div>
             <div class="col-lg-7">
-              <p>{{ event.what }}</p><br>
-              <p style=color:#2C001E;">{{ event.where }}</p>
-              {% if event.descr %}
-                <br><br>
-                <p>{{ event.descr }}</p>
+              <p>
+                <h4>{{ event.what }}</h4><br>
+                <i>{{ event.where }}</i><br>
+                {% if event.descr %}
+                  <br>
+                  {{ event.descr }}
+              </p>
               {% endif %}
             </div>
           </div>
@@ -46,7 +48,7 @@
     <section id="awards-no-color">
       <div class="container">
         <div class="col-lg-12 text-center">
-          <h3>Fellowships & Awards</h3>
+          <h2>Fellowships & Awards</h2>
           <br><br>
         </div>
         {% for a in item.awards %}
