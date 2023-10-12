@@ -2,21 +2,21 @@
 layout: default
 categories: [publication]
 pubnumber: 15
-authors: "<b>C. Müller</b>, A. Schwab, N. M. Randell, S. Kupfer, B. Dietzek-Ivanšić, M. Chavarot-Kerlidou"
-pubtitle: "A Combined Spectroscopic and Theoretical Study on a Ruthenium Complex Featuring a π-Extended dppz Ligand for Light-Driven Accumulation of Multiple Reducing Equivalents"
-journal: Chem. Eur. J.
+authors: "M. G. Pfeffer <b>C. Müller</b>, E. T. E. Kastl, A. K. Mengele, B. Bagemihl, S. S. Fauth, J. Habermehl, L. Petermann, M. Wächtler, M. Schulz, D. Chartrand, F. Laverdière, P. Seeber, S. Kupfer, S. Gräfe, G. S. Hanan, J. G. Vos, B. Dietzek-Ivanšić, S. Rau"
+pubtitle: "Active repair of a dinuclear photocatalyst for visible-light-driven hydrogen production"
+journal: Nat. Chem.
 year: 2022
-volume: 28
-issue: e202103882
-pages:
-doi: 10.1002/chem.202103882
-pubimg: 'TOC_RuLOxim.png'
-alt: 'RuLOxim'
+volume: 14
+issue:
+pages: 505-506
+doi: 10.1038/s41557-021-00860-6
+pubimg: 'TOC_Active-Repair_NatChem.pn'
+alt: 'Active Repair'
 pubarxiv: 
 pubpdf: 
-pubhtml: https://doi.org/10.1002/chem.202103882
-pubhtmlopen: https://doi.org/10.1002/chem.202103882
-pubdata: 
+pubhtml: https://doi.org/10.1038/s41557-021-00860-6
+pubhtmlopen: https://doi.org/10.1038/s41557-021-00860-6
+pubdata: https://doi.org/10.5281/zenodo.5565022
 pubdatabase: 
 pubcode:
 ---
