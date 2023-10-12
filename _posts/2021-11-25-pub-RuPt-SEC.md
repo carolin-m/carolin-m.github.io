@@ -1,7 +1,7 @@
 ---
 layout: default
 categories: [publication]
-pubnumber: 15
+pubnumber: 14
 authors: "<b>C. Müller</b>, I. Friedländer, B. Bagemihl, S. Rau, B. Dietzek-Ivanšić"
 pubtitle: "The electron that breaks the catalyst’s back – excited state dynamics in intermediates of molecular photocatalysts"
 journal: Phys. Chem. Chem. Phys.
