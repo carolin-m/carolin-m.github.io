@@ -12,7 +12,7 @@ date: 2023-04-20
       <img width=200 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/carolin_LUX_circle.png'>
   </td>
   <td width="400"> 
-      <span class="dropcap">I</span> am excited to announce that our research team, which included my PhD supervisor Prof. Benjamin Dietzek-Ivansic, 
+      I am excited to announce that our research team, which included my PhD supervisor Prof. Benjamin Dietzek-Ivansic, 
 Dr. Linda Zedler, and myself, has been awarded with the prestigious Thuringian Research Award in the category of Applied research. 
   </td>
   <td width="300">
@@ -51,7 +51,7 @@ This allows us to prepare molecules with similar chemical properties to intermed
 except that they are more durable and in higher concentrations in the specially developed electrochemical cell. 
 For this reason the molecules are more accessible for subsequent optical spectroscopy which enables us to study the light-induced processes and structural rearrangements of the molecules in detail.
 
-<img width=550 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/assets/img/posts/thuringia_award_science_img.png'>
+<img width=550 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/thuringia_award_science_img.png'>
 
 Secondly, *operando* absorption spectroscopy allowed us to monitor the photocatalysts “at work”, providing insights into catalytically active and inactive long-lived intermediates and side products. 
 Therefore, we realized a mixed-method *operando* spectroscopic approach, where steady-state and time-resolved absorption experiments are performed at different reaction stages, *i.e.*, during light-irradiation that triggers the photocatalytic process. 
