@@ -1,7 +1,7 @@
 ---
 layout: default
 categories: [publication]
-pubnumber: 6
+pubnumber: 5
 authors: "R. A. Wahyuono, S. Amthor, <b>C. Müller</b>, S. Rau, B. Dietzek"
 pubtitle: "Structure of Diethyl-Phosphonic Acid Anchoring Group Affects the Charge-Separated State on an Iridium(III) Complex Functionalized NiO Surface"
 journal: ChemPhotoChem
