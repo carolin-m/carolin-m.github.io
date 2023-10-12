@@ -55,7 +55,7 @@ _____
 
 <p>
 <ul class="list-inline">
-  <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Group01.zip"> Group 01</a></li>
+  <li><a class="btn btn-lg btn-success" href="../../docs/KiMoPack/Group01.zip"> Group 01</a></li>
   <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Group02.zip"> Group 02</a></li>
   <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Group03.zip"> Group 03</a></li>
   <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Group04.zip"> Group 04</a></li>
