@@ -2,7 +2,7 @@
 layout: default
 categories: [publication]
 pubnumber: 24
-authors: C. Li, E. Troschke, C. Müller, A. Dasgupta, C. Eggeling, M. Oschatz, B. Dietzek-Ivanšić
+authors: C. Li, E. Troschke, <b>C. Müller</b>, A. Dasgupta, C. Eggeling, M. Oschatz, B. Dietzek-Ivanšić
 pubtitle: 'Pore Nanoarchitectonics of Carbon Nitrides for the Excited-State Deactivation of Confined Methylene Blue'
 journal: Chem. Eur. J.
 year: 2023
