@@ -37,7 +37,7 @@ _____
 <h4>02) Tutorial </h4>
 
 <p>
-<ul>
+<ul class="list-inline">
   <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Presentation-Slides_Exercises.pdf"> Presentation Slides and Exercises</a></li>
   <br>
   <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/00_hands-on_session.zip"> Hands-on Session 00 - Introduction to Python</a></li>
