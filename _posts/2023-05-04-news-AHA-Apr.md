@@ -4,7 +4,7 @@ categories: [news]
 color-bg: 
 title: 'Science Beyond the Lab: My <i>AHA</i> Moment of March 2023'
 datum: '04.05.2023'
-fa: 'fa-solid fa-chalkboard'
+fa: 'fa-solid fa-flask'
 postimg: 
 alt: 
 description: 'The scientific community is constantly evolving and growing, 
