@@ -1,7 +1,7 @@
 ---
 layout: default
 categories: [publication]
-pubnumber: 16
+pubnumber: 15
 authors: "<b>C. Müller</b>, A. Schwab, N. M. Randell, S. Kupfer, B. Dietzek-Ivanšić, M. Chavarot-Kerlidou"
 pubtitle: "A Combined Spectroscopic and Theoretical Study on a Ruthenium Complex Featuring a π-Extended dppz Ligand for Light-Driven Accumulation of Multiple Reducing Equivalents"
 journal: Chem. Eur. J.
