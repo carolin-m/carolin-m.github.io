@@ -5,7 +5,7 @@ color-bg:
 title: 'ABT – A Writing Game-Changer: My <i>AHA</i> Moment of March 2023'
 datum: '03.04.2023'
 fa: 'fa-solid fa-chalkboard'
-postimg: 
+postimg: 'posts/ABT.png'
 alt: 
 description: 'As a scientist, I am passionate about effectively communicating my research findings to my colleagues and the wider scientific community. 
 I know first-hand that one of the biggest challenges in writing scientific papers is to organise and present the results clearly and concisely.
