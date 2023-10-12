@@ -3,7 +3,7 @@ layout: default
 categories: [news]
 color-bg: 
 title: 'Revealing the Beauty of Surface Hopping: My <i>AHA</i> Moment of January 2023'
-datum: '02.01.2023'
+datum: '01.02.2023'
 fa: 'fa-solid fa-chalkboard'
 postimg: 
 alt: 
