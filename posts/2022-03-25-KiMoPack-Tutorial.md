@@ -37,11 +37,11 @@ _____
 <h4>02) Tutorial </h4>
 
 <p>
-<ul>
-  <li>[Presentation Slides and Exercises](../docs/KiMoPack/Presentation-Slides_Exercises.pdf)</li>
-  <li>[Hands-on Session 00 - Introduction to Python](../docs/KiMoPack/00_hands-on_session.zip)</li>
-  <li>[Hands-on Session 01 - Analysis Workflow with KiMoPack](../docs/KiMoPack/01_hands-on_session.zip)</li>
-  <li>[Hands-on Session 02 - Defining and Optimizing Kinetic Models](../docs/KiMoPack/02_hands-on_session.zip)</li>
+<ul class="list-inline">
+  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Presentation-Slides_Exercises.pdf"> Presentation Slides and Exercises</a></li>
+  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/00_hands-on_session.zip"> Hands-on Session 00 - Introduction to Python</a></li>
+  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/01_hands-on_session.zip"> Hands-on Session 01 - Analysis Workflow with KiMoPack</a></li>
+  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/02_hands-on_session.zip"> Hands-on Session 02 - Defining and Optimizing Kinetic Models</a></li>
 </ul>
 </p>
 
@@ -51,11 +51,11 @@ _____
 <h4>03) Group Challenges </h4> 
 
 <p>
-<ul>
-  <li>[Group 01](../docs/KiMoPack/Group01.zip)</li>
-  <li>[Group 02](../docs/KiMoPack/Group02.zip)</li>
-  <li>[Group 03](../docs/KiMoPack/Group03.zip)</li>
-  <li>[Group 04](../docs/KiMoPack/Group04.zip)</li>
+<ul class="list-inline">
+  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Group01.zip"> Group 01</a></li>
+  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Group02.zip"> Group 02</a></li>
+  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Group03.zip"> Group 03</a></li>
+  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Group04.zip"> Group 04</a></li>
 </ul>
 </p>
 
@@ -63,8 +63,8 @@ _____
 <h4>04) Follow-up</h4>
 
 <p>
-<ul>
-  <li>[Hands-on Session - Solutions]( )</li>
-  <li>[Group Challenge - Solutions](../docs/KiMoPack/Solutions_Group-Challenges.zip)</li>
+<ul class="list-inline">
+  <li><a class="btn btn-lg btn-success" href=""> Hands-on Session - Solutions</a></li>
+  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Solutions_Group-Challenges.zip"> Group Challenge - Solutions</a></li>
 </ul>
 </p>
