@@ -31,20 +31,20 @@ conda install -c conda-forge python-pptx
 
 Please make sure that you can open a specific *Jupyter Notebook* (*e.g.*, see [here](https://docs.jupyter.org/en/latest/running.html)). 
 
-You can use [this *Jupyter Notebook* (test.ipynb)](./docs/KiMoPack/test.ipynb) to verify that the installation was successful. Therefore, open *test.ipynb* and run the first cell (*e.g.* hit SHIFT + ENTER). If the installation was successful, the path to *plot_func.py* and your current working directory will be printed. If there are any problems, feel free to contact me.
+You can use [this *Jupyter Notebook* (test.ipynb)](https://carolin-m.github.io/docs/KiMoPack/test.ipynb) to verify that the installation was successful. Therefore, open *test.ipynb* and run the first cell (*e.g.* hit SHIFT + ENTER). If the installation was successful, the path to *plot_func.py* and your current working directory will be printed. If there are any problems, feel free to contact me.
 
 _____
 <h4>02) Tutorial </h4>
 
 <p>
 <ul>
-  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Presentation-Slides_Exercises.pdf"> Presentation Slides and Exercises</a></li>
+  <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Presentation-Slides_Exercises.pdf"> Presentation Slides and Exercises</a></li>
   <br>
-  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/00_hands-on_session.zip"> Hands-on Session 00 - Introduction to Python</a></li>
+  <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/00_hands-on_session.zip"> Hands-on Session 00 - Introduction to Python</a></li>
   <br>
-  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/01_hands-on_session.zip"> Hands-on Session 01 - Analysis Workflow with KiMoPack</a></li>
+  <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/01_hands-on_session.zip"> Hands-on Session 01 - Analysis Workflow with KiMoPack</a></li>
   <br>
-  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/02_hands-on_session.zip"> Hands-on Session 02 - Defining and Optimizing Kinetic Models</a></li>
+  <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/02_hands-on_session.zip"> Hands-on Session 02 - Defining and Optimizing Kinetic Models</a></li>
 </ul>
 </p>
 
@@ -55,10 +55,10 @@ _____
 
 <p>
 <ul class="list-inline">
-  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Group01.zip"> Group 01</a></li>
-  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Group02.zip"> Group 02</a></li>
-  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Group03.zip"> Group 03</a></li>
-  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Group04.zip"> Group 04</a></li>
+  <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Group01.zip"> Group 01</a></li>
+  <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Group02.zip"> Group 02</a></li>
+  <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Group03.zip"> Group 03</a></li>
+  <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Group04.zip"> Group 04</a></li>
 </ul>
 </p>
 
@@ -68,6 +68,6 @@ _____
 <p>
 <ul class="list-inline">
   <li><a class="btn btn-lg btn-success" href=""> Hands-on Session - Solutions</a></li>
-  <li><a class="btn btn-lg btn-success" href="../docs/KiMoPack/Solutions_Group-Challenges.zip"> Group Challenge - Solutions</a></li>
+  <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Solutions_Group-Challenges.zip"> Group Challenge - Solutions</a></li>
 </ul>
 </p>
