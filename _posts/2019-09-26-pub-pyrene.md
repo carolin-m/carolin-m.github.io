@@ -1,7 +1,7 @@
 ---
 layout: default
 categories: [publication]
-pubnumber: 5
+pubnumber: 4
 authors: "D. O’Connor, <b>C. Müller</b>, N. K. Sarangi, A. Byrne, T. E. Keyes"
 pubtitle: "Dimethylaniline functionalised pyrene fluorophores; dual colour pH switching in solution and self-assembled monolayers"
 journal: PCCP
