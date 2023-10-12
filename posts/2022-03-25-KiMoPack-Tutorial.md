@@ -39,11 +39,11 @@ _____
 <p>
 <ul class="list-inline">
   <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/Presentation-Slides_Exercises.pdf"> Presentation Slides and Exercises</a></li>
-  <br>
+  <br><br>
   <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/00_hands-on_session.zip"> Hands-on Session 00 - Introduction to Python</a></li>
-  <br>
+  <br><br>
   <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/01_hands-on_session.zip"> Hands-on Session 01 - Analysis Workflow with KiMoPack</a></li>
-  <br>
+  <br><br>
   <li><a class="btn btn-lg btn-success" href="https://carolin-m.github.io/docs/KiMoPack/02_hands-on_session.zip"> Hands-on Session 02 - Defining and Optimizing Kinetic Models</a></li>
 </ul>
 </p>
