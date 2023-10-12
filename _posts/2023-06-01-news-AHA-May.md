@@ -4,7 +4,7 @@ categories: [news]
 color-bg: 
 title: 'Trick 17: My <i>AHA</i> Moment of May 2023'
 datum: '01.06.2023'
-fa: 'fa-solid fa-chalkboard'
+fa: 'fa-solid fa-bread-slice'
 postimg: 
 alt: 
 description: 'In our everyday lives, we often encounter situations where a little ingenuity can make a big difference. 
