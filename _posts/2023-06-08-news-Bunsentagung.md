@@ -12,7 +12,7 @@ Being a participant at the conference, I had the chance to make several contribu
 On the one hand, I had the opportunity to present my research by giving a talk. 
 On the other hand, as an active member of the Young Physical Chemists (yPCs) of the German Bunsen Society for 
 Physical Chemistry e.V., I was involved in the organization and execution of the penal discussion 
-*PhD – and then?* as well as a juror for the Agnes-Pockels PhD award."
+<i>PhD – and then?</i> as well as a juror for the Agnes-Pockels PhD award."
 link_img: 
 longtext: '/posts/2023-06-08-DBG-2023'
 ---
