@@ -6,6 +6,7 @@
         <h2>Publications</h2>
         <hr class="star-primary">
         <br><br>
+        {% assign highestPubnum = nil %}
         {% for pub in site.categories.publication %}
           {% if pub.pubnum > highestPubnum %}
             {% assign highestPubnum = pub.pubnum %}
