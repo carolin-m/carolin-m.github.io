@@ -6,6 +6,18 @@
         <h2>Publications</h2>
         <hr class="star-primary">
         <br><br>
+        {% for pub in site.categories.publication %}
+          {% if pub.pubnum > highestPubnum %}
+            {% assign highestPubnum = pub.pubnum %}
+          {% endif %}
+        {% endfor %}
+        <p>
+          Currently, I have published {{ firstPubnum }} articles in peer-reviewed academic journals (*h*-index = 9) providing 
+          2 (spectroscopic) datasets and 1 software (<b>KiMoPack</b>). 
+          For a full list of publications (including non-peer reviewed articles/preprints) see also 
+          <a href="https://scholar.google.com/citations?hl=de&user=GTdILbgAAAAJ">my Google Scholar profile</a> and 
+          <!--my ResearchGate profile](https://www.researchgate.net/profile/Carolin-Mueller-6). -->
+        </p>
       </div>
     </div>
 
