@@ -1,7 +1,7 @@
 ---
 layout: default
 categories: [publication]
-pubnumber: 8
+pubnumber: 7
 authors: "A. K. Mengele, <b>C. Müller</b>, D. Nauroozi, S. Kupfer, B. Dietzek, S. Rau"
 pubtitle: "Molecular Scylla and Charybdis: Maneuvering between pH Sensitivity and Excited-State Localization in Ruthenium Bi(benz)imidazole Complexes"
 journal: Inorg. Chem.
