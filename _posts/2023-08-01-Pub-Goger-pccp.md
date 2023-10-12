@@ -1,7 +1,7 @@
 ---
 layout: default
 categories: [publication]
-pubnumber: 2
+pubnumber: 23
 authors: S. Góger, L. Medrano Sandonas, C. Müller, A. Tkatchenko
 pubtitle: 'Data-Driven Tailoring of Molecular Dipole Polarizability and Frontier Orbital Energies in Chemical Compound Space'
 journal: Phys. Chem. Chem. Phys.
