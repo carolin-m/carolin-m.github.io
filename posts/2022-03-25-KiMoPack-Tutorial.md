@@ -8,11 +8,11 @@ image: KiMoPack_logo.png
 
 The tutorial will take place on 25/03/2022 between 8:30 and 16:30 *via* Zoom. 
 Here you will find the presentation slides, exercises as well as the *Jupyter notebooks* that are used 
-in the hands-on sessions. 
+in the hands-on sessions.
 Moreover you can download the group challenges here.
 
 _____
-### 01) Preparation/Installation
+<h4>01) Preparation/Installation</h4>
 
 The hands-on session of the Python tutorial will be performed using *Jupyter Notebooks*. During the course we work with the [KiMoPack](https://pypi.org/project/KiMoPack/) tool. Please make sure that you have installed [Python](https://www.python.org/), the Classical [Jupyter Notebook](https://jupyter.org/install) and [KiMoPack](https://pypi.org/project/KiMoPack/).
 <br>
@@ -34,25 +34,37 @@ Please make sure that you can open a specific *Jupyter Notebook* (*e.g.*, see [h
 You can use [this *Jupyter Notebook* (test.ipynb)](./docs/KiMoPack/test.ipynb) to verify that the installation was successful. Therefore, open *test.ipynb* and run the first cell (*e.g.* hit SHIFT + ENTER). If the installation was successful, the path to *plot_func.py* and your current working directory will be printed. If there are any problems, feel free to contact me.
 
 _____
-### 02) Tutorial 
+<h4>02) Tutorial </h4>
 
-- [Presentation Slides and Exercises](../docs/KiMoPack/Presentation-Slides_Exercises.pdf)
-- [Hands-on Session 00 - Introduction to Python](../docs/KiMoPack/00_hands-on_session.zip)
-- [Hands-on Session 01 - Analysis Workflow with KiMoPack](../docs/KiMoPack/01_hands-on_session.zip)
-- [Hands-on Session 02 - Defining and Optimizing Kinetic Models](../docs/KiMoPack/02_hands-on_session.zip)
+<p>
+<ul>
+  <li>[Presentation Slides and Exercises](../docs/KiMoPack/Presentation-Slides_Exercises.pdf)</li>
+  <li>[Hands-on Session 00 - Introduction to Python](../docs/KiMoPack/00_hands-on_session.zip)</li>
+  <li>[Hands-on Session 01 - Analysis Workflow with KiMoPack](../docs/KiMoPack/01_hands-on_session.zip)</li>
+  <li>[Hands-on Session 02 - Defining and Optimizing Kinetic Models](../docs/KiMoPack/02_hands-on_session.zip)</li>
+</ul>
+</p>
 
 <img width=600 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/pub/TOC_KiMoPack.png'> 
 
 _____
-### 03) Group Challenges
+<h4>03) Group Challenges </h4> 
 
-- [Group 01](../docs/KiMoPack/Group01.zip)
-- [Group 02](../docs/KiMoPack/Group02.zip)
-- [Group 03](../docs/KiMoPack/Group03.zip)
-- [Group 04](../docs/KiMoPack/Group04.zip)
+<p>
+<ul>
+  <li>[Group 01](../docs/KiMoPack/Group01.zip)</li>
+  <li>[Group 02](../docs/KiMoPack/Group02.zip)</li>
+  <li>[Group 03](../docs/KiMoPack/Group03.zip)</li>
+  <li>[Group 04](../docs/KiMoPack/Group04.zip)</li>
+</ul>
+</p>
 
 _____
-### 04) Follow-up
+<h4>04) Follow-up</h4>
 
-- [Hands-on Session - Solutions]( )
-- [Group Challenge - Solutions](../docs/KiMoPack/Solutions_Group-Challenges.zip)
+<p>
+<ul>
+  <li>[Hands-on Session - Solutions]( )</li>
+  <li>[Group Challenge - Solutions](../docs/KiMoPack/Solutions_Group-Challenges.zip)</li>
+</ul>
+</p>
