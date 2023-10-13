@@ -6,10 +6,10 @@
         <h2>Publications</h2>
         <hr class="star-primary">
         <br><br>
-        {% assign highestPubnum = nil %}
-        {% for pub in site.categories.publication %}
-          {% if pub.pubnumber > highestPubnum %}
-            {% assign highestPubnum = pub.pubnumber %}
+        {% assign highestPubnum = 0 %}
+        {% for file in site.categories.publication %}
+          {% if file.pubnumber > highestPubnum %}
+            {% assign highestPubnum = file.pubnumber %}
           {% endif %}
         {% endfor %}
         <p>
