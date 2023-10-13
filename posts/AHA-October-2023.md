@@ -19,7 +19,7 @@ The following table summarizes some examples
  <br>
  <pre>
   <i class="fa-solid fa-cat" style="font-size:20px;color:#DD4814;"></i>
-  <code>&lt;i class="fa-solid fa-cat" style="font-size:20px;color:#A4004F;"&gt;&lt;/i&gt;</code>
+  <code>&lt;i class="fa-solid fa-cat" style="font-size:20px;color:#DD4814;"&gt;&lt;/i&gt;</code>
  </pre>
 </center>
 
