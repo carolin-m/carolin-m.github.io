@@ -5,21 +5,23 @@ title: "Thuringian Research Award"
 date: 2023-04-20
 ---
 
-<table>
-    <tr> </tr>
-<tr VALIGN=CENTER>
-  <td width="200"> 
-      <img width=200 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/carolin_LUX_circle.png'>
-  </td>
-  <td width="400"> 
-    <p>I am excited to announce that our research team, which included my PhD supervisor Prof. Benjamin Dietzek-Ivansic, 
-Dr. Linda Zedler, and myself, has been awarded with the prestigious Thuringian Research Award in the category of Applied research. </p>
-  </td>
-  <td width="300">
-    <img width=300 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/Foto_Forschungspreis_a_compress.png'>
-  </td>
-</tr>
-</table>
+<center>
+    <table>
+        <tr> </tr>
+    <tr VALIGN=CENTER>
+      <td width="200"> 
+          <img width=200 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/carolin_LUX_circle.png'>
+      </td>
+      <td width="400"> 
+        <p>I am excited to announce that our research team, which included my PhD supervisor Prof. Benjamin Dietzek-Ivansic, 
+    Dr. Linda Zedler, and myself, has been awarded with the prestigious Thuringian Research Award in the category of Applied research. </p>
+      </td>
+      <td width="300">
+        <img width=300 src='https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/img/posts/Foto_Forschungspreis_a_compress.png'>
+      </td>
+    </tr>
+    </table>
+</center>
 <br><br>
 
 It was an incredible journey collaborating on the development of an <i>operando</i> spectroscopic approach 
