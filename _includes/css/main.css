@@ -25,6 +25,11 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+/* Links with the .color-bg class */
+a.color-bg {
+    color: #FFFFFF; /* Link color when the .color-bg class is present */
+}
+
 h1,
 h2,
 h3,
