@@ -25,6 +25,15 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+/* Links within .color-bg container */
+.color-bg a,
+.color-bg a:hover,
+.color-bg a:focus,
+.color-bg a:active,
+.color-bg a.active {
+    color: white; /* or any color you prefer for links on this background */
+}
+
 h1,
 h2,
 h3,
