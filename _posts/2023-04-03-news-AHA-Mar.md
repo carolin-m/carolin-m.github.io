@@ -4,7 +4,7 @@ categories: [news]
 color-bg: 
 title: 'ABT – A Writing Game-Changer: My <i>AHA</i> Moment of March 2023'
 datum: '03.04.2023'
-fa: 'fa-solid fa-chalkboard'
+fa: 'fa-solid fa-file-pen'
 postimg: 'posts/ABT.png'
 alt: 
 description: 'As a scientist, I am passionate about effectively communicating my research findings to my colleagues and the wider scientific community. 
