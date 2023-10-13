@@ -27,13 +27,14 @@ to investigate the mechanism of photocatalytic hydrogen evolution from water.
 I am honored to have been a part of this project (CataLight), 
 and I am looking forward to sharing more about the fascinating world of light-induced mechanisms.
 
+> <br>
+> [📰 University of Luxembourg](https://wwwen.uni.lu/fstm/news/making_the_invisible_visible_a_thuringian_research_prize_awarded) <br>
+> [📰 Leibniz IPHT Jena](https://www.leibniz-ipht.de/de/thueringer-forschungspreis-fuer-angewandte-forschung-2023/) <br>
+> [📰 Friedrich Schiller University Jena](https://www.uni-jena.de/230419-thueringer-forschungspreis) <br>
+> [ℹ️ About the Award](https://www.thueringer-forschungspreis.de/) <br>
+> <br>
 
-- [📰 University of Luxembourg](https://wwwen.uni.lu/fstm/news/making_the_invisible_visible_a_thuringian_research_prize_awarded)
-- [📰 Leibniz IPHT Jena](https://www.leibniz-ipht.de/de/thueringer-forschungspreis-fuer-angewandte-forschung-2023/)
-- [📰 Friedrich Schiller University Jena](https://www.uni-jena.de/230419-thueringer-forschungspreis)
-- [ℹ️ About the Award](https://www.thueringer-forschungspreis.de/)
-
-## Making the Invisible Visible – Abstract of the Awarded Results
+#### Making the Invisible Visible – Abstract of the Awarded Results
 
 Renewable energy sources are key to meeting the world's growing demand for energy sustainability. 
 Among them, solar energy plays a crucial role, and researchers worldwide are exploring ways to capture solar energy more efficiently. 
