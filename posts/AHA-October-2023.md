@@ -19,12 +19,12 @@ The following table summarizes some examples
   </tr>
   <tr>
     <td><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></td>
-    <td><code><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></code></td>
+    <td><pre><code><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></code></pre></td>
   </tr>
-  <tr>
+  <!--<tr>
     <td><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></td>
     <td><code><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></code></td>
-  </tr>
+  </tr>-->
 </table> 
 
 This code snippets can be used to insert smybols for e.g. location, mail or users, drawing instant attention to vital event spots. 
