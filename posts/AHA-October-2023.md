@@ -14,11 +14,11 @@ Font Awesome icons aren't just visually appealing; they also convey information 
 
 <center>
  <pre>
-  Location: <i class="fa-solid fa-location-dot" style="font-size:36px;color:#A4004F;"></i> <code>&lt;i class="fa-solid fa-location-dot" style="font-size:36px;color:#A4004F;"&gt;&lt;/i&gt;</code>
+  Location: <i class="fa-solid fa-location-dot" style="font-size:24px;color:#A4004F;"></i> <code>&lt;i class="fa-solid fa-location-dot" style="font-size:36px;color:#A4004F;"&gt;&lt;/i&gt;</code>
  </pre>
  <br>
  <pre>
-  Break: <i class="fa-solid fa-mug-hot" style="font-size:36px;color:#DD4814;"></i> <code>&lt;i class="fa-solid fa-mug-hot" style="font-size:36px;color:#DD4814;"&gt;&lt;/i&gt;</code>
+  Break: <i class="fa-solid fa-mug-hot" style="font-size:16px;color:#DD4814;"></i> <code>&lt;i class="fa-solid fa-mug-hot" style="font-size:36px;color:#DD4814;"&gt;&lt;/i&gt;</code>
  </pre>
  <br>
  <pre>
