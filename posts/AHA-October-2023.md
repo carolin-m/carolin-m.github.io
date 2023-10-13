@@ -12,24 +12,15 @@ Integrating these icons into timetables is a breeze.
 The following table summarizes some examples
 
 <center>
- <table>
-  <tr>
-    <th>Icon</th>
-    <th>HTML Code</th>
-  </tr>
-  <tr>
-    <td><pre><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></pre></td>
-    <td>
-     <pre>
-      <code>&lt;i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"&gt;&lt;/i&gt;</code>
-     </pre>
-    </td>
-  </tr>
-  <!--<tr>
-    <td><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></td>
-    <td><code><i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i></code></td>
-  </tr>-->
-</table>
+ <pre>
+  <i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i>
+  <code>&lt;i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"&gt;&lt;/i&gt;</code>
+ </pre>
+ <br>
+ <pre>
+  <i class="fa-solid fa-cat" style="font-size:20px;color:#DD4814;"></i>
+  <code>&lt;i class="fa-solid fa-cat" style="font-size:20px;color:#A4004F;"&gt;&lt;/i&gt;</code>
+ </pre>
 </center>
 
 This code snippets can be used to insert smybols for e.g. location, mail or users, drawing instant attention to vital event spots. 
