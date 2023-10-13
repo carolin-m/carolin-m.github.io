@@ -13,6 +13,7 @@ The following code examples demonstrate how to incorporate these symbols for the
 Font Awesome icons aren't just visually appealing; they also convey information effectively, making them a valuable addition to schedules and web design as a whole.
 
 <center>
+ <p>
  <pre>
   Location: <i class="fa-solid fa-location-dot" style="font-size:24px;color:#A4004F;"></i> <code>&lt;i class="fa-solid fa-location-dot" style="font-size:36px;color:#A4004F;"&gt;&lt;/i&gt;</code>
  </pre>
@@ -24,6 +25,7 @@ Font Awesome icons aren't just visually appealing; they also convey information 
  <pre>
   Lecture: <i class="fa-solid fa-chalkboard" style="font-size:36px;color:#000000;"></i> <code>&lt;i class="fa-solid fa-chalkboard" style="font-size:36px;color:#000000;"&gt;&lt;/i&gt;</code>
  </pre>
+ </p>
 </center>
 
 So, if you're looking to elevate your web projects to the next level, consider using Font Awesome icons for a swift and enduring impact.
