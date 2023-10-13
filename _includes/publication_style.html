@@ -8,8 +8,8 @@
         <br><br>
         {% assign highestPubnum = nil %}
         {% for pub in site.categories.publication %}
-          {% if pub.pubnum > highestPubnum %}
-            {% assign highestPubnum = pub.pubnum %}
+          {% if pub.pubnumber > highestPubnum %}
+            {% assign highestPubnum = pub.pubnumber %}
           {% endif %}
         {% endfor %}
         <p>
@@ -34,7 +34,7 @@
             </a></li>
           </ul>
         </center>
-        <br>
+        <br><br>
       </div>
     </div>
 
