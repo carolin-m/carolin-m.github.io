@@ -8,8 +8,12 @@
         <br><br>
         {% assign highestPubnum = 0 %}
         {% for file in site.categories.publication %}
-          {% if file.pubnumber | to_integer > highestPubnum %}
-            {% assign highestPubnum = file.pubnumber | to_integer %}
+          {% assign pubnumber = file.pubnumber | remove: " " %}
+          {% assign pubnumber = pubnumber | remove: "0" %}
+          {% if pubnumber != empty %}
+            {% if pubnumber | to_integer > highestPubnum %}
+              {% assign highestPubnum = pubnumber | to_integer %}
+            {% endif %}
           {% endif %}
         {% endfor %}
         <p>
