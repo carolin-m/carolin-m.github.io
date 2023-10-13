@@ -14,7 +14,7 @@
           {% endif %}
         {% endfor %}
         
-        {% assign sorted_pubnumbers = pubnumbers | sort_natural %}
+        {% assign sorted_pubnumbers = pubnumbers | sort %}
         {% assign highestPubnum = sorted_pubnumbers | last %}
         <p>
           Currently, I have published <b>{{ highestPubnum }}</b> articles in peer-reviewed journals 
