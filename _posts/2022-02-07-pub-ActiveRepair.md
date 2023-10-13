@@ -10,7 +10,7 @@ volume: 14
 issue:
 pages: 505-506
 doi: 10.1038/s41557-021-00860-6
-pubimg: 'TOC_Active-Repair_NatChem.pn'
+pubimg: 'TOC_Active-Repair_NatChem.png'
 alt: 'Active Repair'
 pubarxiv: 
 pubpdf: 
