@@ -29,6 +29,7 @@ Font Awesome icons aren't just visually appealing; they also convey information 
 </center>
 
 So, if you're looking to elevate your web projects to the next level, consider using Font Awesome icons for a swift and enduring impact.
+<br><br>
 
 <a href="https://fontawesome.com/icons" target="_blank" class="btn btn-lg btn-success"><i class="fa-solid fa-wand-magic-sparkles" style="font-size:24px;color:#FFFFFF;"></i> Explore Font Awesome</a>
 
