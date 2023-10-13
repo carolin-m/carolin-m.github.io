@@ -1,6 +1,6 @@
 ---
 layout: postpage
-readtime: '5 min'
+readtime: '6 min'
 title: "Thuringian Research Award"
 date: 2023-04-20
 ---
