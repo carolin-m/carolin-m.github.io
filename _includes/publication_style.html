@@ -6,16 +6,16 @@
         <h2>Publications</h2>
         <hr class="star-primary">
         <br><br>
-        {% assign highestPubnum = 0 %}
+        {% assign pubnumbers = "" | split: "," %}
         {% for file in site.categories.publication %}
-          {% assign pubnumber = file.pubnumber | remove: " " %}
-          {% assign pubnumber = pubnumber | remove: "0" %}
+          {% assign pubnumber = file.pubnumber | to_integer %}
           {% if pubnumber != empty %}
-            {% if pubnumber | to_integer > highestPubnum %}
-              {% assign highestPubnum = pubnumber | to_integer %}
-            {% endif %}
+            {% assign pubnumbers = pubnumbers | push: pubnumber %}
           {% endif %}
         {% endfor %}
+        
+        {% assign sorted_pubnumbers = pubnumbers | sort_natural %}
+        {% assign highestPubnum = sorted_pubnumbers | last %}
         <p>
           Currently, I have published <b>{{ highestPubnum }}</b> articles in peer-reviewed journals 
           (<i>h</i>-index = 9) providing 2 (spectroscopic) datasets and 1 software (<b>KiMoPack</b>). 
