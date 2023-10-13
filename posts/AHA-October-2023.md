@@ -13,13 +13,15 @@ The following table summarizes some examples
 
 <center>
  <pre>
-  <i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"></i>
-  <code>&lt;i class="fa-solid fa-location-dot" style="font-size:20px;color:#A4004F;"&gt;&lt;/i&gt;</code>
+  Location: <i class="fa-solid fa-location-dot" style="font-size:36px;color:#A4004F;"></i> <code>&lt;i class="fa-solid fa-location-dot" style="font-size:36px;color:#A4004F;"&gt;&lt;/i&gt;</code>
  </pre>
  <br>
  <pre>
-  <i class="fa-solid fa-cat" style="font-size:20px;color:#DD4814;"></i>
-  <code>&lt;i class="fa-solid fa-cat" style="font-size:20px;color:#DD4814;"&gt;&lt;/i&gt;</code>
+  Break: <i class="fa-solid fa-mug-hot" style="font-size:36px;color:#DD4814;"></i> <code>&lt;i class="fa-solid fa-mug-hot" style="font-size:36px;color:#DD4814;"&gt;&lt;/i&gt;</code>
+ </pre>
+ <br>
+ <pre>
+  Lecture: <i class="fa-solid fa-chalkboard" style="font-size:36px;color:#000000;"></i> <code>&lt;i class="fa-solid fa-chalkboard" style="font-size:36px;color:#000000;"&gt;&lt;/i&gt;</code>
  </pre>
 </center>
 
