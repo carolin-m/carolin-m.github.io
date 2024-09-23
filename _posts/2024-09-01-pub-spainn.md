@@ -1,7 +1,7 @@
 ---
 layout: default
 categories: [publication]
-pubnumber: 27
+pubnumber: 26
 authors: "S. Mausenberger, <b>C. Müller</b>, A. Tkatchenko, P. Marquetand, L. Gonzalez, J. Westermayr"
 pubtitle: "SpaiNN: equivariant message passing for excited-state nonadiabatic molecular dynamics"
 journal: Chem. Sci.
