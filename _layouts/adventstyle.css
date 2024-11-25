@@ -13,40 +13,16 @@ body {
   color:white;
 }
 
-.item-1 {
-   background-color:#001533;
-}
-
-.item-2 {
-   background-color:#002760;
-}
-
-.item-3 {
-   background-color:#00388c;
-}
-
-.item-4 {
-   background-color:#0048b5;
-}
-
-.item-5 {
-   background-color:#005ce8;
-}
-
-.item-6 {
-   background-color:#609fff;
-}
-
-.item-7 {
-   background-color:#8ebbff;
-}
-
-.item-8 {
-   background-color:#b7d4ff;
-}
-
-.item-9 {
-   background-color:#e2eeff;
+.day-1, .day-2, .day-3, .day-4, .day-5, .day-6, .day-7, .day-8, .day-9,
+.day-10, .day-11, .day-12, .day-13, .day-14, .day-15, .day-16, .day-17, .day-18,
+.day-19, .day-20, .day-21, .day-22, .day-23, .day-24 {
+  background-color: #002760; /* Example default color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  border: 1px solid white;
+  cursor: pointer;
 }
 
 .rows-col {
