@@ -1,6 +1,11 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body id="page-top" class="index">
+  {% include nav.html %}
+  {% include header.html %}
+  
 <style>
   body {
     background: url(https://raw.githubusercontent.com/carolin-m/carolin-m.github.io/main/images/christmas_BG1.png) no-repeat top center #FFFFFF;
@@ -307,3 +312,10 @@ layout: default
   </section>
 
 </article>
+
+  {% include footer.html %}
+  {% include modals.html %}
+  {% include js.html %} 
+</body>
+
+</html>
