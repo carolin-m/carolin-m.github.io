@@ -5,7 +5,7 @@ body {
 }
 
 
-#grid-1 {
+.grid-1 {
   display:grid;
   grid-gap:10px;
   grid-template-columns: 100px 100px 100px;
@@ -13,42 +13,42 @@ body {
   color:white;
 }
 
-#item-1 {
+.item-1 {
    background-color:#001533;
 }
 
-#item-2 {
+.item-2 {
    background-color:#002760;
 }
 
-#item-3 {
+.item-3 {
    background-color:#00388c;
 }
 
-#item-4 {
+.item-4 {
    background-color:#0048b5;
 }
 
-#item-5 {
+.item-5 {
    background-color:#005ce8;
 }
 
-#item-6 {
+.item-6 {
    background-color:#609fff;
 }
 
-#item-7 {
+.item-7 {
    background-color:#8ebbff;
 }
 
-#item-8 {
+.item-8 {
    background-color:#b7d4ff;
 }
 
-#item-9 {
+.item-9 {
    background-color:#e2eeff;
 }
 
-#rows-col {
+.rows-col {
    background-color:white;
 }
