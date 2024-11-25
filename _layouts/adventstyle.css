@@ -25,6 +25,28 @@ body {
   display: none;
 }
 
+.calendar-grid label {
+  perspective: 1000px;
+  transform-style: preserve-3d;
+  cursor: pointer;
+  display: flex;
+  min-height: 100%;
+  width: 100%;
+  height: 136px;
+  position: relative;
+}
+
+.calendar-grid .door {
+  transform-style: preserve-3d;
+  transition: all 300ms;
+  transform-origin: 0% 50%;
+  ... further styles
+}
+
+.calendar-grid input:checked + .door {
+  transform: rotateY(-180deg);
+}
+
 .title {
   grid-area: title;
   display: flex;
