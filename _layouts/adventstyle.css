@@ -21,6 +21,9 @@ body {
       "day3   day9   day7   day13  day23  day19";
 }
 
+.calendar-grid input {
+  display: none;
+}
 
 .title {
   grid-area: title;
